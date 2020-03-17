@@ -7,7 +7,9 @@ I tried to find a way to model the logistic growth function from the worldwide d
 
 The model expands on source code written by Gianluca Malato in this [Medium Post](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) which focuses on the Italian pandemic.
 
-I used the following Gosu code to normalise and augment the global data so it could be easily used in a modified version of Gianlucas [colab notebook](https://colab.research.google.com/drive/1TQJrZELeDTqdn8KddWpaNRUYg8822MI5).
+I used the following Gosu code to normalise and augment the global data so it could be easily used in a modified version of Gianlucas Colab notebook.
+The new Colab notebook uses the output csvs from this program to plot the graphs and make the predictions.
+It's available [here](https://colab.research.google.com/drive/1TQJrZELeDTqdn8KddWpaNRUYg8822MI5).
 
 ### Usage
 
