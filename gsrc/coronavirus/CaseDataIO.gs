@@ -33,6 +33,18 @@ class CaseDataIO {
     var allChinaWorksheet = createColabWorksheetFromCombinedLocations(allChina)
     createCSVFileFromTextWorksheet(allChinaWorksheet, "./modules/configuration/outputs/", "AllChina", false)
 
+    var allUS = locations.where(\elt -> elt.Country == "US")
+    var allUSWorksheet = createColabWorksheetFromCombinedLocations(allUS)
+    createCSVFileFromTextWorksheet(allUSWorksheet, "./modules/configuration/outputs/", "AllUS", false)
+
+    var allCanada = locations.where(\elt -> elt.Country == "Canada")
+    var allCanadaWorksheet = createColabWorksheetFromCombinedLocations(allCanada)
+    createCSVFileFromTextWorksheet(allCanadaWorksheet, "./modules/configuration/outputs/", "AllCanada", false)
+
+    var allAustralia = locations.where(\elt -> elt.Country == "Australia")
+    var allAustraliaWorksheet = createColabWorksheetFromCombinedLocations(allAustralia)
+    createCSVFileFromTextWorksheet(allAustraliaWorksheet, "./modules/configuration/outputs/", "AllAustralia", false)
+
     var allExcludingChina = locations.where(\elt -> elt.Country != "China")
     var allExcludingChinaWorksheet = createColabWorksheetFromCombinedLocations(allExcludingChina)
     createCSVFileFromTextWorksheet(allExcludingChinaWorksheet, "./modules/configuration/outputs/", "AllExcludingChina", false)
