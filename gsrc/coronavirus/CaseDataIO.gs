@@ -17,8 +17,16 @@ class CaseDataIO {
 
   public function runWithDefaults(){
     var worksheet = createWorksheetFromCSVFile("./resources/inputs/Time_series_covid-19_Confirmed.csv", "Covid19-Initial")
-    // createCSVFileFromTextWorksheet(worksheet, "./modules/configuration/outputs/")
-    var locations = createLocationCasesFromWorksheet(worksheet)
+    //createCSVFileFromTextWorksheet(worksheet, "./modules/configuration/outputs/")
+    var locations: ArrayList<Location> = createLocationCasesFromWorksheet(worksheet)
+
+    var locationStrings = new ArrayList<String>()
+    locationStrings.addAll({"AllChina","AllExcludingChina","AllAustralia","AllCanada","AllUS"})
+    var locStrings = locations*.Key.toSet().order()
+    locationStrings.addAll(locStrings)
+    locationStrings.add("AllCountries")
+    var locationOptionString = "\"" + locationStrings.join("\",\"") + "\""
+    print(locationOptionString)
 
     for(loc in locations){
       // print(loc) // Check for data issues
@@ -63,6 +71,7 @@ class CaseDataIO {
 
         var dateFormatter = DateTimeFormatter.ofPattern("M/d/yy")
         var caseDate = LocalDate.parse(worksheet.ColumnNames.get(colIndex), dateFormatter)
+        if(val == ""){val = "0"}
         var confirmedCases = Integer.valueOf(val)
         new CasesLocationDate(location, caseDate, confirmedCases, 0, 0)
 
