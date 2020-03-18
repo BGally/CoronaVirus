@@ -17,19 +17,11 @@ class CaseDataIO {
 
   public function runWithDefaults(){
     var worksheet = createWorksheetFromCSVFile("./resources/inputs/Time_series_covid-19_Confirmed.csv", "Covid19-Initial")
-    //createCSVFileFromTextWorksheet(worksheet, "./modules/configuration/outputs/")
-    var locations: ArrayList<Location> = createLocationCasesFromWorksheet(worksheet)
-
-    var locationStrings = new ArrayList<String>()
-    locationStrings.addAll({"AllChina","AllExcludingChina","AllAustralia","AllCanada","AllUS"})
-    var locStrings = locations*.Key.toSet().order()
-    locationStrings.addAll(locStrings)
-    locationStrings.add("AllCountries")
-    var locationOptionString = "\"" + locationStrings.join("\",\"") + "\""
-    print(locationOptionString)
+    // createCSVFileFromTextWorksheet(worksheet, "./modules/configuration/outputs/") // Uncomment to check csv for data issues
+    var locations = createLocationCasesFromWorksheet(worksheet)
 
     for(loc in locations){
-      // print(loc) // Check for data issues
+      // print(loc) // Uncomment to check locations for data issues
       var colabWorksheet = createColabWorksheetFromLocation(loc)
       createCSVFileFromTextWorksheet(colabWorksheet, "./modules/configuration/outputs/", null, false)
     }
