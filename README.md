@@ -3,7 +3,7 @@
  
 Inspired by [this video](https://www.youtube.com/watch?v=Kas0tIxDvrg) by 3Blue1Brown on exponential growth and epidemics.
 
-I tried to find a way to model the logistic growth function from the worldwide data made available by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
+I tried to find a way to model the logistic growth function from the worldwide data made available by [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series).
 
 The model expands on source code written by Gianluca Malato in this [Medium Post](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) which focuses on the Italian pandemic.
 
