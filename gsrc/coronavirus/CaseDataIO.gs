@@ -224,13 +224,19 @@ class CaseDataIO {
   }
 
   private function applyDataFixes(values: ArrayList<String>): ArrayList<String>{
-    var stringToReplace = "\"Korea, South"
-    var replacementString = "South Korea"
+    var wrongStr_1 = "\"Korea, South"
+    var replaceStr_1 = "South Korea"
+    var wrongStr_2 = "\"Gambia, The"
+    var replaceStr_2 = "The Gambia"
+
     var newVals = new ArrayList<String>()
-    if (values.contains(stringToReplace)){
+    if (values.contains(wrongStr_1) or values.contains(wrongStr_2)){
       for(val in values){
-        if(val == stringToReplace){
-          val = replacementString
+        if(val == wrongStr_1){
+          val = replaceStr_1
+        }
+        if(val == wrongStr_2){
+          val = replaceStr_2
         }
         newVals.add(val)
       }
