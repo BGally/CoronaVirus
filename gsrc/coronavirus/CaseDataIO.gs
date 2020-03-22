@@ -228,15 +228,20 @@ class CaseDataIO {
     var replaceStr_1 = "South Korea"
     var wrongStr_2 = "\"Gambia, The"
     var replaceStr_2 = "The Gambia"
+    var wrongStr_3 = "\"Bahamas, The"
+    var replaceStr_3 = "The Bahamas"
 
     var newVals = new ArrayList<String>()
-    if (values.contains(wrongStr_1) or values.contains(wrongStr_2)){
+    if (values.contains(wrongStr_1) or values.contains(wrongStr_2) or values.contains(wrongStr_3)){
       for(val in values){
         if(val == wrongStr_1){
           val = replaceStr_1
         }
         if(val == wrongStr_2){
           val = replaceStr_2
+        }
+        if(val == wrongStr_3){
+          val = replaceStr_3
         }
         newVals.add(val)
       }
