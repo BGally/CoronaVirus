@@ -82,42 +82,32 @@ class CaseDataIO {
     var headers = new ArrayList<String>()
     headers.addAll({"day","cases","cases_new","growth","date"})
 
-    var contentArray = new ArrayList<ArrayList<String>>()
-
-    var prevCasesDate : CasesLocationDate
-    for(casesDate in loc.CasesLocationDates.Values){
-      if(casesDate.Confirmed > 0){
-        var days = ChronoUnit.DAYS.between(_virusStartDate, casesDate.Date)
-        var row = new ArrayList<String>()
-        row.add(days as String)
-        row.add(casesDate.Confirmed as String)
-        var newCases : int
-        var growth : float
-        if(prevCasesDate?.Confirmed > 0){
-          newCases = casesDate.Confirmed - prevCasesDate.Confirmed
-          growth = (casesDate.Confirmed as float/prevCasesDate.Confirmed as float)
-        } else{
-          newCases = casesDate.Confirmed
-          growth = 1
-        }
-        row.add(newCases as String)
-
-        var growthString = growth as String
-        if(growthString.length > 5){
-          growthString = growthString.substring(0,5)
-        }
-        row.add(growthString)
-
-        var dateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd")
-        var strDate = dateFormat.format(casesDate.Date)
-        row.add(strDate)
-
-        contentArray.add(row)
-      }
-      prevCasesDate = casesDate
-    }
+    var contentArray = generateColabContentArray(loc.CasesLocationDates.Values.toList())
 
     return new TextWorksheet(title, headers, contentArray)
+
+  }
+
+  public function createPowerBIWorksheetFromLocations(locs : List<Location>, title : String = null) : TextWorksheet {
+
+    if(title == null){
+      title = "PowerBICombined"
+    }
+
+    var headers = new ArrayList<String>()
+    headers.addAll({"location","day","cases","cases_new","growth","date"})
+
+    var allCasesLocationdates = new ArrayList<CasesLocationDate>()
+    for(loc in locs){
+      for(cld in loc.CasesLocationDates.Values){
+        allCasesLocationdates.add(cld)
+      }
+    }
+
+    var contentArray = generatePowerBIContentArray(allCasesLocationdates)
+
+    return new TextWorksheet(title, headers, contentArray)
+
   }
 
   public function createColabWorksheetFromCombinedLocations(locs : List<Location>, title : String = null) : TextWorksheet {
@@ -184,6 +174,46 @@ class CaseDataIO {
 
         contentArray.add(row)
       }
+      prevCasesDate = casesDate
+    }
+    return contentArray
+  }
+
+  private function generatePowerBIContentArray(casesDates : List<CasesLocationDate>): ArrayList<ArrayList<String>>{
+
+    var contentArray = new ArrayList<ArrayList<String>>()
+
+    var prevCasesDate : CasesLocationDate
+    for(casesDate in casesDates){
+      //if(casesDate.Confirmed > 0) {
+        var days = ChronoUnit.DAYS.between(_virusStartDate, casesDate.Date)
+        var row = new ArrayList<String>()
+        row.add(casesDate.Location.Key as String)
+        row.add(days as String)
+        row.add(casesDate.Confirmed as String)
+        var newCases : int = 0
+        var growth : float
+        if(prevCasesDate?.Location?.Key == casesDate.Location.Key and prevCasesDate?.Confirmed > 0){
+          newCases = casesDate.Confirmed - prevCasesDate.Confirmed
+          growth = (casesDate.Confirmed as float/prevCasesDate.Confirmed as float)
+        } else{
+          newCases = casesDate.Confirmed
+          growth = 1
+        }
+        row.add(newCases as String)
+
+        var growthString = growth as String
+        if(growthString.length > 5){
+          growthString = growthString.substring(0,5)
+        }
+        row.add(growthString)
+
+        var dateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd")
+        var strDate = dateFormat.format(casesDate.Date)
+        row.add(strDate)
+
+        contentArray.add(row)
+      //}
       prevCasesDate = casesDate
     }
     return contentArray
