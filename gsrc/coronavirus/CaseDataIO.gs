@@ -16,7 +16,7 @@ class CaseDataIO {
   construct(){}
 
   public function runWithDefaults(){
-    var worksheet = createWorksheetFromCSVFile("./resources/inputs/Time_series_covid-19_Confirmed.csv", "Covid19-Initial")
+    var worksheet = createWorksheetFromCSVFile("./resources/inputs/Time_series_covid-19_Confirmed_Global.csv", "Covid19-Initial")
     // createCSVFileFromTextWorksheet(worksheet, "./modules/configuration/outputs/") // Uncomment to check csv for data issues
     var locations = createLocationCasesFromWorksheet(worksheet)
 
