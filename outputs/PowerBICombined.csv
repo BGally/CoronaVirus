@@ -61,6 +61,7 @@ Afghanistan,58,24,2,1.090,2020-03-20
 Afghanistan,59,24,0,1.0,2020-03-21
 Afghanistan,60,40,16,1.666,2020-03-22
 Afghanistan,61,40,0,1.0,2020-03-23
+Afghanistan,62,74,34,1.85,2020-03-24
 Albania,0,0,0,1.0,2020-01-22
 Albania,1,0,0,1.0,2020-01-23
 Albania,2,0,0,1.0,2020-01-24
@@ -123,6 +124,7 @@ Albania,58,70,6,1.093,2020-03-20
 Albania,59,76,6,1.085,2020-03-21
 Albania,60,89,13,1.171,2020-03-22
 Albania,61,104,15,1.168,2020-03-23
+Albania,62,123,19,1.182,2020-03-24
 Algeria,0,0,0,1.0,2020-01-22
 Algeria,1,0,0,1.0,2020-01-23
 Algeria,2,0,0,1.0,2020-01-24
@@ -185,6 +187,7 @@ Algeria,58,90,3,1.034,2020-03-20
 Algeria,59,139,49,1.544,2020-03-21
 Algeria,60,201,62,1.446,2020-03-22
 Algeria,61,230,29,1.144,2020-03-23
+Algeria,62,264,34,1.147,2020-03-24
 Andorra,0,0,0,1.0,2020-01-22
 Andorra,1,0,0,1.0,2020-01-23
 Andorra,2,0,0,1.0,2020-01-24
@@ -247,6 +250,7 @@ Andorra,58,75,22,1.415,2020-03-20
 Andorra,59,88,13,1.173,2020-03-21
 Andorra,60,113,25,1.284,2020-03-22
 Andorra,61,133,20,1.176,2020-03-23
+Andorra,62,164,31,1.233,2020-03-24
 Angola,0,0,0,1.0,2020-01-22
 Angola,1,0,0,1.0,2020-01-23
 Angola,2,0,0,1.0,2020-01-24
@@ -309,6 +313,7 @@ Angola,58,1,1,1.0,2020-03-20
 Angola,59,2,1,2.0,2020-03-21
 Angola,60,2,0,1.0,2020-03-22
 Angola,61,3,1,1.5,2020-03-23
+Angola,62,3,0,1.0,2020-03-24
 AntiguaandBarbuda,0,0,0,1.0,2020-01-22
 AntiguaandBarbuda,1,0,0,1.0,2020-01-23
 AntiguaandBarbuda,2,0,0,1.0,2020-01-24
@@ -371,6 +376,7 @@ AntiguaandBarbuda,58,1,0,1.0,2020-03-20
 AntiguaandBarbuda,59,1,0,1.0,2020-03-21
 AntiguaandBarbuda,60,1,0,1.0,2020-03-22
 AntiguaandBarbuda,61,3,2,3.0,2020-03-23
+AntiguaandBarbuda,62,3,0,1.0,2020-03-24
 Argentina,0,0,0,1.0,2020-01-22
 Argentina,1,0,0,1.0,2020-01-23
 Argentina,2,0,0,1.0,2020-01-24
@@ -433,6 +439,7 @@ Argentina,58,128,31,1.319,2020-03-20
 Argentina,59,158,30,1.234,2020-03-21
 Argentina,60,266,108,1.683,2020-03-22
 Argentina,61,301,35,1.131,2020-03-23
+Argentina,62,387,86,1.285,2020-03-24
 Armenia,0,0,0,1.0,2020-01-22
 Armenia,1,0,0,1.0,2020-01-23
 Armenia,2,0,0,1.0,2020-01-24
@@ -495,6 +502,7 @@ Armenia,58,136,21,1.182,2020-03-20
 Armenia,59,160,24,1.176,2020-03-21
 Armenia,60,194,34,1.212,2020-03-22
 Armenia,61,235,41,1.211,2020-03-23
+Armenia,62,249,14,1.059,2020-03-24
 AustraliaAustralianCapitalTerritory,0,0,0,1.0,2020-01-22
 AustraliaAustralianCapitalTerritory,1,0,0,1.0,2020-01-23
 AustraliaAustralianCapitalTerritory,2,0,0,1.0,2020-01-24
@@ -557,6 +565,7 @@ AustraliaAustralianCapitalTerritory,58,6,2,1.5,2020-03-20
 AustraliaAustralianCapitalTerritory,59,9,3,1.5,2020-03-21
 AustraliaAustralianCapitalTerritory,60,19,10,2.111,2020-03-22
 AustraliaAustralianCapitalTerritory,61,32,13,1.684,2020-03-23
+AustraliaAustralianCapitalTerritory,62,39,7,1.218,2020-03-24
 AustraliaNewSouthWales,0,0,0,1.0,2020-01-22
 AustraliaNewSouthWales,1,0,0,1.0,2020-01-23
 AustraliaNewSouthWales,2,0,0,1.0,2020-01-24
@@ -619,6 +628,7 @@ AustraliaNewSouthWales,58,353,46,1.149,2020-03-20
 AustraliaNewSouthWales,59,436,83,1.235,2020-03-21
 AustraliaNewSouthWales,60,669,233,1.534,2020-03-22
 AustraliaNewSouthWales,61,669,0,1.0,2020-03-23
+AustraliaNewSouthWales,62,818,149,1.222,2020-03-24
 AustraliaNorthernTerritory,0,0,0,1.0,2020-01-22
 AustraliaNorthernTerritory,1,0,0,1.0,2020-01-23
 AustraliaNorthernTerritory,2,0,0,1.0,2020-01-24
@@ -681,6 +691,7 @@ AustraliaNorthernTerritory,58,3,2,3.0,2020-03-20
 AustraliaNorthernTerritory,59,3,0,1.0,2020-03-21
 AustraliaNorthernTerritory,60,5,2,1.666,2020-03-22
 AustraliaNorthernTerritory,61,5,0,1.0,2020-03-23
+AustraliaNorthernTerritory,62,6,1,1.2,2020-03-24
 AustraliaQueensland,0,0,0,1.0,2020-01-22
 AustraliaQueensland,1,0,0,1.0,2020-01-23
 AustraliaQueensland,2,0,0,1.0,2020-01-24
@@ -743,6 +754,7 @@ AustraliaQueensland,58,184,40,1.277,2020-03-20
 AustraliaQueensland,59,221,37,1.201,2020-03-21
 AustraliaQueensland,60,259,38,1.171,2020-03-22
 AustraliaQueensland,61,319,60,1.231,2020-03-23
+AustraliaQueensland,62,397,78,1.244,2020-03-24
 AustraliaSouthAustralia,0,0,0,1.0,2020-01-22
 AustraliaSouthAustralia,1,0,0,1.0,2020-01-23
 AustraliaSouthAustralia,2,0,0,1.0,2020-01-24
@@ -805,6 +817,7 @@ AustraliaSouthAustralia,58,50,8,1.190,2020-03-20
 AustraliaSouthAustralia,59,67,17,1.34,2020-03-21
 AustraliaSouthAustralia,60,100,33,1.492,2020-03-22
 AustraliaSouthAustralia,61,134,34,1.34,2020-03-23
+AustraliaSouthAustralia,62,170,36,1.268,2020-03-24
 AustraliaTasmania,0,0,0,1.0,2020-01-22
 AustraliaTasmania,1,0,0,1.0,2020-01-23
 AustraliaTasmania,2,0,0,1.0,2020-01-24
@@ -867,6 +880,7 @@ AustraliaTasmania,58,10,0,1.0,2020-03-20
 AustraliaTasmania,59,16,6,1.6,2020-03-21
 AustraliaTasmania,60,22,6,1.375,2020-03-22
 AustraliaTasmania,61,28,6,1.272,2020-03-23
+AustraliaTasmania,62,28,0,1.0,2020-03-24
 AustraliaVictoria,0,0,0,1.0,2020-01-22
 AustraliaVictoria,1,0,0,1.0,2020-01-23
 AustraliaVictoria,2,0,0,1.0,2020-01-24
@@ -929,6 +943,7 @@ AustraliaVictoria,58,121,0,1.0,2020-03-20
 AustraliaVictoria,59,229,108,1.892,2020-03-21
 AustraliaVictoria,60,355,126,1.550,2020-03-22
 AustraliaVictoria,61,355,0,1.0,2020-03-23
+AustraliaVictoria,62,411,56,1.157,2020-03-24
 AustraliaWesternAustralia,0,0,0,1.0,2020-01-22
 AustraliaWesternAustralia,1,0,0,1.0,2020-01-23
 AustraliaWesternAustralia,2,0,0,1.0,2020-01-24
@@ -991,6 +1006,7 @@ AustraliaWesternAustralia,58,64,12,1.230,2020-03-20
 AustraliaWesternAustralia,59,90,26,1.406,2020-03-21
 AustraliaWesternAustralia,60,120,30,1.333,2020-03-22
 AustraliaWesternAustralia,61,140,20,1.166,2020-03-23
+AustraliaWesternAustralia,62,175,35,1.25,2020-03-24
 Austria,0,0,0,1.0,2020-01-22
 Austria,1,0,0,1.0,2020-01-23
 Austria,2,0,0,1.0,2020-01-24
@@ -1053,6 +1069,7 @@ Austria,58,2388,375,1.186,2020-03-20
 Austria,59,2814,426,1.178,2020-03-21
 Austria,60,3582,768,1.272,2020-03-22
 Austria,61,4474,892,1.249,2020-03-23
+Austria,62,5283,809,1.180,2020-03-24
 Azerbaijan,0,0,0,1.0,2020-01-22
 Azerbaijan,1,0,0,1.0,2020-01-23
 Azerbaijan,2,0,0,1.0,2020-01-24
@@ -1115,6 +1132,7 @@ Azerbaijan,58,44,0,1.0,2020-03-20
 Azerbaijan,59,53,9,1.204,2020-03-21
 Azerbaijan,60,65,12,1.226,2020-03-22
 Azerbaijan,61,72,7,1.107,2020-03-23
+Azerbaijan,62,87,15,1.208,2020-03-24
 Bahamas,0,0,0,1.0,2020-01-22
 Bahamas,1,0,0,1.0,2020-01-23
 Bahamas,2,0,0,1.0,2020-01-24
@@ -1177,6 +1195,7 @@ Bahamas,58,3,0,1.0,2020-03-20
 Bahamas,59,4,1,1.333,2020-03-21
 Bahamas,60,4,0,1.0,2020-03-22
 Bahamas,61,4,0,1.0,2020-03-23
+Bahamas,62,5,1,1.25,2020-03-24
 Bahrain,0,0,0,1.0,2020-01-22
 Bahrain,1,0,0,1.0,2020-01-23
 Bahrain,2,0,0,1.0,2020-01-24
@@ -1239,6 +1258,7 @@ Bahrain,58,285,7,1.025,2020-03-20
 Bahrain,59,305,20,1.070,2020-03-21
 Bahrain,60,334,29,1.095,2020-03-22
 Bahrain,61,377,43,1.128,2020-03-23
+Bahrain,62,392,15,1.039,2020-03-24
 Bangladesh,0,0,0,1.0,2020-01-22
 Bangladesh,1,0,0,1.0,2020-01-23
 Bangladesh,2,0,0,1.0,2020-01-24
@@ -1301,6 +1321,7 @@ Bangladesh,58,20,3,1.176,2020-03-20
 Bangladesh,59,25,5,1.25,2020-03-21
 Bangladesh,60,27,2,1.08,2020-03-22
 Bangladesh,61,33,6,1.222,2020-03-23
+Bangladesh,62,39,6,1.181,2020-03-24
 Barbados,0,0,0,1.0,2020-01-22
 Barbados,1,0,0,1.0,2020-01-23
 Barbados,2,0,0,1.0,2020-01-24
@@ -1363,6 +1384,7 @@ Barbados,58,5,0,1.0,2020-03-20
 Barbados,59,6,1,1.2,2020-03-21
 Barbados,60,14,8,2.333,2020-03-22
 Barbados,61,17,3,1.214,2020-03-23
+Barbados,62,18,1,1.058,2020-03-24
 Belarus,0,0,0,1.0,2020-01-22
 Belarus,1,0,0,1.0,2020-01-23
 Belarus,2,0,0,1.0,2020-01-24
@@ -1425,6 +1447,7 @@ Belarus,58,69,18,1.352,2020-03-20
 Belarus,59,76,7,1.101,2020-03-21
 Belarus,60,76,0,1.0,2020-03-22
 Belarus,61,81,5,1.065,2020-03-23
+Belarus,62,81,0,1.0,2020-03-24
 Belgium,0,0,0,1.0,2020-01-22
 Belgium,1,0,0,1.0,2020-01-23
 Belgium,2,0,0,1.0,2020-01-24
@@ -1487,6 +1510,7 @@ Belgium,58,2257,462,1.257,2020-03-20
 Belgium,59,2815,558,1.247,2020-03-21
 Belgium,60,3401,586,1.208,2020-03-22
 Belgium,61,3743,342,1.100,2020-03-23
+Belgium,62,4269,526,1.140,2020-03-24
 Belize,0,0,0,1.0,2020-01-22
 Belize,1,0,0,1.0,2020-01-23
 Belize,2,0,0,1.0,2020-01-24
@@ -1549,6 +1573,7 @@ Belize,58,0,0,1.0,2020-03-20
 Belize,59,0,0,1.0,2020-03-21
 Belize,60,0,0,1.0,2020-03-22
 Belize,61,1,1,1.0,2020-03-23
+Belize,62,1,0,1.0,2020-03-24
 Benin,0,0,0,1.0,2020-01-22
 Benin,1,0,0,1.0,2020-01-23
 Benin,2,0,0,1.0,2020-01-24
@@ -1611,6 +1636,7 @@ Benin,58,2,0,1.0,2020-03-20
 Benin,59,2,0,1.0,2020-03-21
 Benin,60,2,0,1.0,2020-03-22
 Benin,61,5,3,2.5,2020-03-23
+Benin,62,6,1,1.2,2020-03-24
 Bhutan,0,0,0,1.0,2020-01-22
 Bhutan,1,0,0,1.0,2020-01-23
 Bhutan,2,0,0,1.0,2020-01-24
@@ -1673,6 +1699,7 @@ Bhutan,58,2,1,2.0,2020-03-20
 Bhutan,59,2,0,1.0,2020-03-21
 Bhutan,60,2,0,1.0,2020-03-22
 Bhutan,61,2,0,1.0,2020-03-23
+Bhutan,62,2,0,1.0,2020-03-24
 Bolivia,0,0,0,1.0,2020-01-22
 Bolivia,1,0,0,1.0,2020-01-23
 Bolivia,2,0,0,1.0,2020-01-24
@@ -1735,6 +1762,7 @@ Bolivia,58,15,3,1.25,2020-03-20
 Bolivia,59,19,4,1.266,2020-03-21
 Bolivia,60,24,5,1.263,2020-03-22
 Bolivia,61,27,3,1.125,2020-03-23
+Bolivia,62,29,2,1.074,2020-03-24
 BosniaandHerzegovina,0,0,0,1.0,2020-01-22
 BosniaandHerzegovina,1,0,0,1.0,2020-01-23
 BosniaandHerzegovina,2,0,0,1.0,2020-01-24
@@ -1797,6 +1825,7 @@ BosniaandHerzegovina,58,89,26,1.412,2020-03-20
 BosniaandHerzegovina,59,93,4,1.044,2020-03-21
 BosniaandHerzegovina,60,126,33,1.354,2020-03-22
 BosniaandHerzegovina,61,136,10,1.079,2020-03-23
+BosniaandHerzegovina,62,166,30,1.220,2020-03-24
 Brazil,0,0,0,1.0,2020-01-22
 Brazil,1,0,0,1.0,2020-01-23
 Brazil,2,0,0,1.0,2020-01-24
@@ -1859,6 +1888,7 @@ Brazil,58,793,172,1.276,2020-03-20
 Brazil,59,1021,228,1.287,2020-03-21
 Brazil,60,1546,525,1.514,2020-03-22
 Brazil,61,1924,378,1.244,2020-03-23
+Brazil,62,2247,323,1.167,2020-03-24
 Brunei,0,0,0,1.0,2020-01-22
 Brunei,1,0,0,1.0,2020-01-23
 Brunei,2,0,0,1.0,2020-01-24
@@ -1921,6 +1951,7 @@ Brunei,58,78,3,1.04,2020-03-20
 Brunei,59,83,5,1.064,2020-03-21
 Brunei,60,88,5,1.060,2020-03-22
 Brunei,61,91,3,1.034,2020-03-23
+Brunei,62,104,13,1.142,2020-03-24
 Bulgaria,0,0,0,1.0,2020-01-22
 Bulgaria,1,0,0,1.0,2020-01-23
 Bulgaria,2,0,0,1.0,2020-01-24
@@ -1983,6 +2014,7 @@ Bulgaria,58,127,33,1.351,2020-03-20
 Bulgaria,59,163,36,1.283,2020-03-21
 Bulgaria,60,187,24,1.147,2020-03-22
 Bulgaria,61,201,14,1.074,2020-03-23
+Bulgaria,62,218,17,1.084,2020-03-24
 BurkinaFaso,0,0,0,1.0,2020-01-22
 BurkinaFaso,1,0,0,1.0,2020-01-23
 BurkinaFaso,2,0,0,1.0,2020-01-24
@@ -2045,6 +2077,7 @@ BurkinaFaso,58,40,7,1.212,2020-03-20
 BurkinaFaso,59,64,24,1.6,2020-03-21
 BurkinaFaso,60,75,11,1.171,2020-03-22
 BurkinaFaso,61,99,24,1.32,2020-03-23
+BurkinaFaso,62,114,15,1.151,2020-03-24
 CaboVerde,0,0,0,1.0,2020-01-22
 CaboVerde,1,0,0,1.0,2020-01-23
 CaboVerde,2,0,0,1.0,2020-01-24
@@ -2107,6 +2140,7 @@ CaboVerde,58,1,1,1.0,2020-03-20
 CaboVerde,59,3,2,3.0,2020-03-21
 CaboVerde,60,3,0,1.0,2020-03-22
 CaboVerde,61,3,0,1.0,2020-03-23
+CaboVerde,62,3,0,1.0,2020-03-24
 Cambodia,0,0,0,1.0,2020-01-22
 Cambodia,1,0,0,1.0,2020-01-23
 Cambodia,2,0,0,1.0,2020-01-24
@@ -2169,6 +2203,7 @@ Cambodia,58,51,14,1.378,2020-03-20
 Cambodia,59,53,2,1.039,2020-03-21
 Cambodia,60,84,31,1.584,2020-03-22
 Cambodia,61,87,3,1.035,2020-03-23
+Cambodia,62,91,4,1.045,2020-03-24
 Cameroon,0,0,0,1.0,2020-01-22
 Cameroon,1,0,0,1.0,2020-01-23
 Cameroon,2,0,0,1.0,2020-01-24
@@ -2231,6 +2266,7 @@ Cameroon,58,20,7,1.538,2020-03-20
 Cameroon,59,27,7,1.35,2020-03-21
 Cameroon,60,40,13,1.481,2020-03-22
 Cameroon,61,56,16,1.4,2020-03-23
+Cameroon,62,66,10,1.178,2020-03-24
 CanadaAlberta,0,0,0,1.0,2020-01-22
 CanadaAlberta,1,0,0,1.0,2020-01-23
 CanadaAlberta,2,0,0,1.0,2020-01-24
@@ -2293,6 +2329,7 @@ CanadaAlberta,58,146,27,1.226,2020-03-20
 CanadaAlberta,59,195,49,1.335,2020-03-21
 CanadaAlberta,60,259,64,1.328,2020-03-22
 CanadaAlberta,61,301,42,1.162,2020-03-23
+CanadaAlberta,62,359,58,1.192,2020-03-24
 CanadaBritishColumbia,0,0,0,1.0,2020-01-22
 CanadaBritishColumbia,1,0,0,1.0,2020-01-23
 CanadaBritishColumbia,2,0,0,1.0,2020-01-24
@@ -2355,6 +2392,7 @@ CanadaBritishColumbia,58,271,40,1.173,2020-03-20
 CanadaBritishColumbia,59,424,153,1.564,2020-03-21
 CanadaBritishColumbia,60,424,0,1.0,2020-03-22
 CanadaBritishColumbia,61,472,48,1.113,2020-03-23
+CanadaBritishColumbia,62,617,145,1.307,2020-03-24
 CanadaDiamondPrincess,0,0,0,1.0,2020-01-22
 CanadaDiamondPrincess,1,0,0,1.0,2020-01-23
 CanadaDiamondPrincess,2,0,0,1.0,2020-01-24
@@ -2417,6 +2455,7 @@ CanadaDiamondPrincess,58,0,0,1.0,2020-03-20
 CanadaDiamondPrincess,59,0,0,1.0,2020-03-21
 CanadaDiamondPrincess,60,0,0,1.0,2020-03-22
 CanadaDiamondPrincess,61,0,0,1.0,2020-03-23
+CanadaDiamondPrincess,62,0,0,1.0,2020-03-24
 CanadaGrandPrincess,0,0,0,1.0,2020-01-22
 CanadaGrandPrincess,1,0,0,1.0,2020-01-23
 CanadaGrandPrincess,2,0,0,1.0,2020-01-24
@@ -2479,6 +2518,7 @@ CanadaGrandPrincess,58,10,1,1.111,2020-03-20
 CanadaGrandPrincess,59,10,0,1.0,2020-03-21
 CanadaGrandPrincess,60,13,3,1.3,2020-03-22
 CanadaGrandPrincess,61,13,0,1.0,2020-03-23
+CanadaGrandPrincess,62,13,0,1.0,2020-03-24
 CanadaManitoba,0,0,0,1.0,2020-01-22
 CanadaManitoba,1,0,0,1.0,2020-01-23
 CanadaManitoba,2,0,0,1.0,2020-01-24
@@ -2541,6 +2581,7 @@ CanadaManitoba,58,17,0,1.0,2020-03-20
 CanadaManitoba,59,18,1,1.058,2020-03-21
 CanadaManitoba,60,20,2,1.111,2020-03-22
 CanadaManitoba,61,20,0,1.0,2020-03-23
+CanadaManitoba,62,21,1,1.05,2020-03-24
 CanadaNewBrunswick,0,0,0,1.0,2020-01-22
 CanadaNewBrunswick,1,0,0,1.0,2020-01-23
 CanadaNewBrunswick,2,0,0,1.0,2020-01-24
@@ -2603,6 +2644,7 @@ CanadaNewBrunswick,58,11,0,1.0,2020-03-20
 CanadaNewBrunswick,59,17,6,1.545,2020-03-21
 CanadaNewBrunswick,60,17,0,1.0,2020-03-22
 CanadaNewBrunswick,61,17,0,1.0,2020-03-23
+CanadaNewBrunswick,62,18,1,1.058,2020-03-24
 CanadaNewfoundlandandLabrador,0,0,0,1.0,2020-01-22
 CanadaNewfoundlandandLabrador,1,0,0,1.0,2020-01-23
 CanadaNewfoundlandandLabrador,2,0,0,1.0,2020-01-24
@@ -2665,6 +2707,7 @@ CanadaNewfoundlandandLabrador,58,4,1,1.333,2020-03-20
 CanadaNewfoundlandandLabrador,59,6,2,1.5,2020-03-21
 CanadaNewfoundlandandLabrador,60,9,3,1.5,2020-03-22
 CanadaNewfoundlandandLabrador,61,24,15,2.666,2020-03-23
+CanadaNewfoundlandandLabrador,62,35,11,1.458,2020-03-24
 CanadaNovaScotia,0,0,0,1.0,2020-01-22
 CanadaNovaScotia,1,0,0,1.0,2020-01-23
 CanadaNovaScotia,2,0,0,1.0,2020-01-24
@@ -2727,6 +2770,7 @@ CanadaNovaScotia,58,15,1,1.071,2020-03-20
 CanadaNovaScotia,59,21,6,1.4,2020-03-21
 CanadaNovaScotia,60,28,7,1.333,2020-03-22
 CanadaNovaScotia,61,41,13,1.464,2020-03-23
+CanadaNovaScotia,62,51,10,1.243,2020-03-24
 CanadaOntario,0,0,0,1.0,2020-01-22
 CanadaOntario,1,0,0,1.0,2020-01-23
 CanadaOntario,2,0,0,1.0,2020-01-24
@@ -2789,6 +2833,7 @@ CanadaOntario,58,308,51,1.198,2020-03-20
 CanadaOntario,59,377,69,1.224,2020-03-21
 CanadaOntario,60,425,48,1.127,2020-03-22
 CanadaOntario,61,503,78,1.183,2020-03-23
+CanadaOntario,62,588,85,1.168,2020-03-24
 CanadaPrinceEdwardIsland,0,0,0,1.0,2020-01-22
 CanadaPrinceEdwardIsland,1,0,0,1.0,2020-01-23
 CanadaPrinceEdwardIsland,2,0,0,1.0,2020-01-24
@@ -2851,6 +2896,7 @@ CanadaPrinceEdwardIsland,58,2,0,1.0,2020-03-20
 CanadaPrinceEdwardIsland,59,2,0,1.0,2020-03-21
 CanadaPrinceEdwardIsland,60,3,1,1.5,2020-03-22
 CanadaPrinceEdwardIsland,61,3,0,1.0,2020-03-23
+CanadaPrinceEdwardIsland,62,3,0,1.0,2020-03-24
 CanadaQuebec,0,0,0,1.0,2020-01-22
 CanadaQuebec,1,0,0,1.0,2020-01-23
 CanadaQuebec,2,0,0,1.0,2020-01-24
@@ -2913,6 +2959,70 @@ CanadaQuebec,58,139,18,1.148,2020-03-20
 CanadaQuebec,59,181,42,1.302,2020-03-21
 CanadaQuebec,60,219,38,1.209,2020-03-22
 CanadaQuebec,61,628,409,2.867,2020-03-23
+CanadaQuebec,62,1013,385,1.613,2020-03-24
+CanadaRecovered,0,0,0,1.0,2020-01-22
+CanadaRecovered,1,0,0,1.0,2020-01-23
+CanadaRecovered,2,0,0,1.0,2020-01-24
+CanadaRecovered,3,0,0,1.0,2020-01-25
+CanadaRecovered,4,0,0,1.0,2020-01-26
+CanadaRecovered,5,0,0,1.0,2020-01-27
+CanadaRecovered,6,0,0,1.0,2020-01-28
+CanadaRecovered,7,0,0,1.0,2020-01-29
+CanadaRecovered,8,0,0,1.0,2020-01-30
+CanadaRecovered,9,0,0,1.0,2020-01-31
+CanadaRecovered,10,0,0,1.0,2020-02-01
+CanadaRecovered,11,0,0,1.0,2020-02-02
+CanadaRecovered,12,0,0,1.0,2020-02-03
+CanadaRecovered,13,0,0,1.0,2020-02-04
+CanadaRecovered,14,0,0,1.0,2020-02-05
+CanadaRecovered,15,0,0,1.0,2020-02-06
+CanadaRecovered,16,0,0,1.0,2020-02-07
+CanadaRecovered,17,0,0,1.0,2020-02-08
+CanadaRecovered,18,0,0,1.0,2020-02-09
+CanadaRecovered,19,0,0,1.0,2020-02-10
+CanadaRecovered,20,0,0,1.0,2020-02-11
+CanadaRecovered,21,0,0,1.0,2020-02-12
+CanadaRecovered,22,0,0,1.0,2020-02-13
+CanadaRecovered,23,0,0,1.0,2020-02-14
+CanadaRecovered,24,0,0,1.0,2020-02-15
+CanadaRecovered,25,0,0,1.0,2020-02-16
+CanadaRecovered,26,0,0,1.0,2020-02-17
+CanadaRecovered,27,0,0,1.0,2020-02-18
+CanadaRecovered,28,0,0,1.0,2020-02-19
+CanadaRecovered,29,0,0,1.0,2020-02-20
+CanadaRecovered,30,0,0,1.0,2020-02-21
+CanadaRecovered,31,0,0,1.0,2020-02-22
+CanadaRecovered,32,0,0,1.0,2020-02-23
+CanadaRecovered,33,0,0,1.0,2020-02-24
+CanadaRecovered,34,0,0,1.0,2020-02-25
+CanadaRecovered,35,0,0,1.0,2020-02-26
+CanadaRecovered,36,0,0,1.0,2020-02-27
+CanadaRecovered,37,0,0,1.0,2020-02-28
+CanadaRecovered,38,0,0,1.0,2020-02-29
+CanadaRecovered,39,0,0,1.0,2020-03-01
+CanadaRecovered,40,0,0,1.0,2020-03-02
+CanadaRecovered,41,0,0,1.0,2020-03-03
+CanadaRecovered,42,0,0,1.0,2020-03-04
+CanadaRecovered,43,0,0,1.0,2020-03-05
+CanadaRecovered,44,0,0,1.0,2020-03-06
+CanadaRecovered,45,0,0,1.0,2020-03-07
+CanadaRecovered,46,0,0,1.0,2020-03-08
+CanadaRecovered,47,0,0,1.0,2020-03-09
+CanadaRecovered,48,0,0,1.0,2020-03-10
+CanadaRecovered,49,0,0,1.0,2020-03-11
+CanadaRecovered,50,0,0,1.0,2020-03-12
+CanadaRecovered,51,0,0,1.0,2020-03-13
+CanadaRecovered,52,0,0,1.0,2020-03-14
+CanadaRecovered,53,0,0,1.0,2020-03-15
+CanadaRecovered,54,0,0,1.0,2020-03-16
+CanadaRecovered,55,0,0,1.0,2020-03-17
+CanadaRecovered,56,0,0,1.0,2020-03-18
+CanadaRecovered,57,0,0,1.0,2020-03-19
+CanadaRecovered,58,0,0,1.0,2020-03-20
+CanadaRecovered,59,0,0,1.0,2020-03-21
+CanadaRecovered,60,0,0,1.0,2020-03-22
+CanadaRecovered,61,0,0,1.0,2020-03-23
+CanadaRecovered,62,0,0,1.0,2020-03-24
 CanadaSaskatchewan,0,0,0,1.0,2020-01-22
 CanadaSaskatchewan,1,0,0,1.0,2020-01-23
 CanadaSaskatchewan,2,0,0,1.0,2020-01-24
@@ -2975,6 +3085,7 @@ CanadaSaskatchewan,58,20,4,1.25,2020-03-20
 CanadaSaskatchewan,59,26,6,1.3,2020-03-21
 CanadaSaskatchewan,60,52,26,2.0,2020-03-22
 CanadaSaskatchewan,61,66,14,1.269,2020-03-23
+CanadaSaskatchewan,62,72,6,1.090,2020-03-24
 CentralAfricanRepublic,0,0,0,1.0,2020-01-22
 CentralAfricanRepublic,1,0,0,1.0,2020-01-23
 CentralAfricanRepublic,2,0,0,1.0,2020-01-24
@@ -3037,6 +3148,7 @@ CentralAfricanRepublic,58,3,2,3.0,2020-03-20
 CentralAfricanRepublic,59,3,0,1.0,2020-03-21
 CentralAfricanRepublic,60,3,0,1.0,2020-03-22
 CentralAfricanRepublic,61,3,0,1.0,2020-03-23
+CentralAfricanRepublic,62,3,0,1.0,2020-03-24
 Chad,0,0,0,1.0,2020-01-22
 Chad,1,0,0,1.0,2020-01-23
 Chad,2,0,0,1.0,2020-01-24
@@ -3099,6 +3211,7 @@ Chad,58,1,0,1.0,2020-03-20
 Chad,59,1,0,1.0,2020-03-21
 Chad,60,1,0,1.0,2020-03-22
 Chad,61,1,0,1.0,2020-03-23
+Chad,62,3,2,3.0,2020-03-24
 Chile,0,0,0,1.0,2020-01-22
 Chile,1,0,0,1.0,2020-01-23
 Chile,2,0,0,1.0,2020-01-24
@@ -3161,6 +3274,7 @@ Chile,58,434,196,1.823,2020-03-20
 Chile,59,537,103,1.237,2020-03-21
 Chile,60,632,95,1.176,2020-03-22
 Chile,61,746,114,1.180,2020-03-23
+Chile,62,922,176,1.235,2020-03-24
 ChinaAnhui,0,1,1,1.0,2020-01-22
 ChinaAnhui,1,9,8,9.0,2020-01-23
 ChinaAnhui,2,15,6,1.666,2020-01-24
@@ -3223,6 +3337,7 @@ ChinaAnhui,58,990,0,1.0,2020-03-20
 ChinaAnhui,59,990,0,1.0,2020-03-21
 ChinaAnhui,60,990,0,1.0,2020-03-22
 ChinaAnhui,61,990,0,1.0,2020-03-23
+ChinaAnhui,62,990,0,1.0,2020-03-24
 ChinaBeijing,0,14,14,1.0,2020-01-22
 ChinaBeijing,1,22,8,1.571,2020-01-23
 ChinaBeijing,2,36,14,1.636,2020-01-24
@@ -3285,6 +3400,7 @@ ChinaBeijing,58,491,11,1.022,2020-03-20
 ChinaBeijing,59,504,13,1.026,2020-03-21
 ChinaBeijing,60,522,18,1.035,2020-03-22
 ChinaBeijing,61,537,15,1.028,2020-03-23
+ChinaBeijing,62,558,21,1.039,2020-03-24
 ChinaChongqing,0,6,6,1.0,2020-01-22
 ChinaChongqing,1,9,3,1.5,2020-01-23
 ChinaChongqing,2,27,18,3.0,2020-01-24
@@ -3347,6 +3463,7 @@ ChinaChongqing,58,576,0,1.0,2020-03-20
 ChinaChongqing,59,576,0,1.0,2020-03-21
 ChinaChongqing,60,577,1,1.001,2020-03-22
 ChinaChongqing,61,578,1,1.001,2020-03-23
+ChinaChongqing,62,578,0,1.0,2020-03-24
 ChinaFujian,0,1,1,1.0,2020-01-22
 ChinaFujian,1,5,4,5.0,2020-01-23
 ChinaFujian,2,10,5,2.0,2020-01-24
@@ -3409,6 +3526,7 @@ ChinaFujian,58,299,3,1.010,2020-03-20
 ChinaFujian,59,303,4,1.013,2020-03-21
 ChinaFujian,60,313,10,1.033,2020-03-22
 ChinaFujian,61,313,0,1.0,2020-03-23
+ChinaFujian,62,318,5,1.015,2020-03-24
 ChinaGansu,0,0,0,1.0,2020-01-22
 ChinaGansu,1,2,2,1.0,2020-01-23
 ChinaGansu,2,2,0,1.0,2020-01-24
@@ -3471,6 +3589,7 @@ ChinaGansu,58,134,0,1.0,2020-03-20
 ChinaGansu,59,134,0,1.0,2020-03-21
 ChinaGansu,60,136,2,1.014,2020-03-22
 ChinaGansu,61,136,0,1.0,2020-03-23
+ChinaGansu,62,136,0,1.0,2020-03-24
 ChinaGuangdong,0,26,26,1.0,2020-01-22
 ChinaGuangdong,1,32,6,1.230,2020-01-23
 ChinaGuangdong,2,53,21,1.656,2020-01-24
@@ -3533,6 +3652,7 @@ ChinaGuangdong,58,1395,17,1.012,2020-03-20
 ChinaGuangdong,59,1400,5,1.003,2020-03-21
 ChinaGuangdong,60,1413,13,1.009,2020-03-22
 ChinaGuangdong,61,1415,2,1.001,2020-03-23
+ChinaGuangdong,62,1428,13,1.009,2020-03-24
 ChinaGuangxi,0,2,2,1.0,2020-01-22
 ChinaGuangxi,1,5,3,2.5,2020-01-23
 ChinaGuangxi,2,23,18,4.6,2020-01-24
@@ -3595,6 +3715,7 @@ ChinaGuangxi,58,254,1,1.003,2020-03-20
 ChinaGuangxi,59,254,0,1.0,2020-03-21
 ChinaGuangxi,60,254,0,1.0,2020-03-22
 ChinaGuangxi,61,254,0,1.0,2020-03-23
+ChinaGuangxi,62,254,0,1.0,2020-03-24
 ChinaGuizhou,0,1,1,1.0,2020-01-22
 ChinaGuizhou,1,3,2,3.0,2020-01-23
 ChinaGuizhou,2,3,0,1.0,2020-01-24
@@ -3657,6 +3778,7 @@ ChinaGuizhou,58,146,0,1.0,2020-03-20
 ChinaGuizhou,59,146,0,1.0,2020-03-21
 ChinaGuizhou,60,146,0,1.0,2020-03-22
 ChinaGuizhou,61,146,0,1.0,2020-03-23
+ChinaGuizhou,62,146,0,1.0,2020-03-24
 ChinaHainan,0,4,4,1.0,2020-01-22
 ChinaHainan,1,5,1,1.25,2020-01-23
 ChinaHainan,2,8,3,1.6,2020-01-24
@@ -3719,6 +3841,7 @@ ChinaHainan,58,168,0,1.0,2020-03-20
 ChinaHainan,59,168,0,1.0,2020-03-21
 ChinaHainan,60,168,0,1.0,2020-03-22
 ChinaHainan,61,168,0,1.0,2020-03-23
+ChinaHainan,62,168,0,1.0,2020-03-24
 ChinaHebei,0,1,1,1.0,2020-01-22
 ChinaHebei,1,1,0,1.0,2020-01-23
 ChinaHebei,2,2,1,2.0,2020-01-24
@@ -3781,6 +3904,7 @@ ChinaHebei,58,318,0,1.0,2020-03-20
 ChinaHebei,59,318,0,1.0,2020-03-21
 ChinaHebei,60,319,1,1.003,2020-03-22
 ChinaHebei,61,319,0,1.0,2020-03-23
+ChinaHebei,62,319,0,1.0,2020-03-24
 ChinaHeilongjiang,0,0,0,1.0,2020-01-22
 ChinaHeilongjiang,1,2,2,1.0,2020-01-23
 ChinaHeilongjiang,2,4,2,2.0,2020-01-24
@@ -3843,6 +3967,7 @@ ChinaHeilongjiang,58,484,1,1.002,2020-03-20
 ChinaHeilongjiang,59,484,0,1.0,2020-03-21
 ChinaHeilongjiang,60,484,0,1.0,2020-03-22
 ChinaHeilongjiang,61,484,0,1.0,2020-03-23
+ChinaHeilongjiang,62,484,0,1.0,2020-03-24
 ChinaHenan,0,5,5,1.0,2020-01-22
 ChinaHenan,1,5,0,1.0,2020-01-23
 ChinaHenan,2,9,4,1.8,2020-01-24
@@ -3905,6 +4030,7 @@ ChinaHenan,58,1273,0,1.0,2020-03-20
 ChinaHenan,59,1273,0,1.0,2020-03-21
 ChinaHenan,60,1274,1,1.000,2020-03-22
 ChinaHenan,61,1274,0,1.0,2020-03-23
+ChinaHenan,62,1274,0,1.0,2020-03-24
 ChinaHongKong,0,0,0,1.0,2020-01-22
 ChinaHongKong,1,2,2,1.0,2020-01-23
 ChinaHongKong,2,2,0,1.0,2020-01-24
@@ -3967,6 +4093,7 @@ ChinaHongKong,58,256,48,1.230,2020-03-20
 ChinaHongKong,59,273,17,1.066,2020-03-21
 ChinaHongKong,60,317,44,1.161,2020-03-22
 ChinaHongKong,61,356,39,1.123,2020-03-23
+ChinaHongKong,62,386,30,1.084,2020-03-24
 ChinaHubei,0,444,444,1.0,2020-01-22
 ChinaHubei,1,444,0,1.0,2020-01-23
 ChinaHubei,2,549,105,1.236,2020-01-24
@@ -4029,6 +4156,7 @@ ChinaHubei,58,67800,0,1.0,2020-03-20
 ChinaHubei,59,67800,0,1.0,2020-03-21
 ChinaHubei,60,67800,0,1.0,2020-03-22
 ChinaHubei,61,67800,0,1.0,2020-03-23
+ChinaHubei,62,67801,1,1.000,2020-03-24
 ChinaHunan,0,4,4,1.0,2020-01-22
 ChinaHunan,1,9,5,2.25,2020-01-23
 ChinaHunan,2,24,15,2.666,2020-01-24
@@ -4091,6 +4219,7 @@ ChinaHunan,58,1018,0,1.0,2020-03-20
 ChinaHunan,59,1018,0,1.0,2020-03-21
 ChinaHunan,60,1018,0,1.0,2020-03-22
 ChinaHunan,61,1018,0,1.0,2020-03-23
+ChinaHunan,62,1018,0,1.0,2020-03-24
 ChinaInnerMongolia,0,0,0,1.0,2020-01-22
 ChinaInnerMongolia,1,0,0,1.0,2020-01-23
 ChinaInnerMongolia,2,1,1,1.0,2020-01-24
@@ -4153,6 +4282,7 @@ ChinaInnerMongolia,58,75,0,1.0,2020-03-20
 ChinaInnerMongolia,59,75,0,1.0,2020-03-21
 ChinaInnerMongolia,60,75,0,1.0,2020-03-22
 ChinaInnerMongolia,61,75,0,1.0,2020-03-23
+ChinaInnerMongolia,62,75,0,1.0,2020-03-24
 ChinaJiangsu,0,1,1,1.0,2020-01-22
 ChinaJiangsu,1,5,4,5.0,2020-01-23
 ChinaJiangsu,2,9,4,1.8,2020-01-24
@@ -4215,6 +4345,7 @@ ChinaJiangsu,58,631,0,1.0,2020-03-20
 ChinaJiangsu,59,631,0,1.0,2020-03-21
 ChinaJiangsu,60,633,2,1.003,2020-03-22
 ChinaJiangsu,61,633,0,1.0,2020-03-23
+ChinaJiangsu,62,636,3,1.004,2020-03-24
 ChinaJiangxi,0,2,2,1.0,2020-01-22
 ChinaJiangxi,1,7,5,3.5,2020-01-23
 ChinaJiangxi,2,18,11,2.571,2020-01-24
@@ -4277,6 +4408,7 @@ ChinaJiangxi,58,935,0,1.0,2020-03-20
 ChinaJiangxi,59,935,0,1.0,2020-03-21
 ChinaJiangxi,60,936,1,1.001,2020-03-22
 ChinaJiangxi,61,936,0,1.0,2020-03-23
+ChinaJiangxi,62,936,0,1.0,2020-03-24
 ChinaJilin,0,0,0,1.0,2020-01-22
 ChinaJilin,1,1,1,1.0,2020-01-23
 ChinaJilin,2,3,2,3.0,2020-01-24
@@ -4339,6 +4471,7 @@ ChinaJilin,58,93,0,1.0,2020-03-20
 ChinaJilin,59,93,0,1.0,2020-03-21
 ChinaJilin,60,93,0,1.0,2020-03-22
 ChinaJilin,61,93,0,1.0,2020-03-23
+ChinaJilin,62,93,0,1.0,2020-03-24
 ChinaLiaoning,0,2,2,1.0,2020-01-22
 ChinaLiaoning,1,3,1,1.5,2020-01-23
 ChinaLiaoning,2,4,1,1.333,2020-01-24
@@ -4401,6 +4534,7 @@ ChinaLiaoning,58,126,1,1.008,2020-03-20
 ChinaLiaoning,59,126,0,1.0,2020-03-21
 ChinaLiaoning,60,127,1,1.007,2020-03-22
 ChinaLiaoning,61,127,0,1.0,2020-03-23
+ChinaLiaoning,62,127,0,1.0,2020-03-24
 ChinaMacau,0,1,1,1.0,2020-01-22
 ChinaMacau,1,2,1,2.0,2020-01-23
 ChinaMacau,2,2,0,1.0,2020-01-24
@@ -4463,6 +4597,7 @@ ChinaMacau,58,17,0,1.0,2020-03-20
 ChinaMacau,59,18,1,1.058,2020-03-21
 ChinaMacau,60,24,6,1.333,2020-03-22
 ChinaMacau,61,24,0,1.0,2020-03-23
+ChinaMacau,62,25,1,1.041,2020-03-24
 ChinaNingxia,0,1,1,1.0,2020-01-22
 ChinaNingxia,1,1,0,1.0,2020-01-23
 ChinaNingxia,2,2,1,2.0,2020-01-24
@@ -4525,6 +4660,7 @@ ChinaNingxia,58,75,0,1.0,2020-03-20
 ChinaNingxia,59,75,0,1.0,2020-03-21
 ChinaNingxia,60,75,0,1.0,2020-03-22
 ChinaNingxia,61,75,0,1.0,2020-03-23
+ChinaNingxia,62,75,0,1.0,2020-03-24
 ChinaQinghai,0,0,0,1.0,2020-01-22
 ChinaQinghai,1,0,0,1.0,2020-01-23
 ChinaQinghai,2,0,0,1.0,2020-01-24
@@ -4587,6 +4723,7 @@ ChinaQinghai,58,18,0,1.0,2020-03-20
 ChinaQinghai,59,18,0,1.0,2020-03-21
 ChinaQinghai,60,18,0,1.0,2020-03-22
 ChinaQinghai,61,18,0,1.0,2020-03-23
+ChinaQinghai,62,18,0,1.0,2020-03-24
 ChinaShaanxi,0,0,0,1.0,2020-01-22
 ChinaShaanxi,1,3,3,1.0,2020-01-23
 ChinaShaanxi,2,5,2,1.666,2020-01-24
@@ -4649,6 +4786,7 @@ ChinaShaanxi,58,247,1,1.004,2020-03-20
 ChinaShaanxi,59,248,1,1.004,2020-03-21
 ChinaShaanxi,60,248,0,1.0,2020-03-22
 ChinaShaanxi,61,248,0,1.0,2020-03-23
+ChinaShaanxi,62,249,1,1.004,2020-03-24
 ChinaShandong,0,2,2,1.0,2020-01-22
 ChinaShandong,1,6,4,3.0,2020-01-23
 ChinaShandong,2,15,9,2.5,2020-01-24
@@ -4711,6 +4849,7 @@ ChinaShandong,58,762,1,1.001,2020-03-20
 ChinaShandong,59,764,2,1.002,2020-03-21
 ChinaShandong,60,767,3,1.003,2020-03-22
 ChinaShandong,61,768,1,1.001,2020-03-23
+ChinaShandong,62,768,0,1.0,2020-03-24
 ChinaShanghai,0,9,9,1.0,2020-01-22
 ChinaShanghai,1,16,7,1.777,2020-01-23
 ChinaShanghai,2,20,4,1.25,2020-01-24
@@ -4773,6 +4912,7 @@ ChinaShanghai,58,371,8,1.022,2020-03-20
 ChinaShanghai,59,380,9,1.024,2020-03-21
 ChinaShanghai,60,404,24,1.063,2020-03-22
 ChinaShanghai,61,404,0,1.0,2020-03-23
+ChinaShanghai,62,414,10,1.024,2020-03-24
 ChinaShanxi,0,1,1,1.0,2020-01-22
 ChinaShanxi,1,1,0,1.0,2020-01-23
 ChinaShanxi,2,1,0,1.0,2020-01-24
@@ -4835,6 +4975,7 @@ ChinaShanxi,58,133,0,1.0,2020-03-20
 ChinaShanxi,59,133,0,1.0,2020-03-21
 ChinaShanxi,60,133,0,1.0,2020-03-22
 ChinaShanxi,61,134,1,1.007,2020-03-23
+ChinaShanxi,62,134,0,1.0,2020-03-24
 ChinaSichuan,0,5,5,1.0,2020-01-22
 ChinaSichuan,1,8,3,1.6,2020-01-23
 ChinaSichuan,2,15,7,1.875,2020-01-24
@@ -4897,6 +5038,7 @@ ChinaSichuan,58,541,1,1.001,2020-03-20
 ChinaSichuan,59,542,1,1.001,2020-03-21
 ChinaSichuan,60,543,1,1.001,2020-03-22
 ChinaSichuan,61,543,0,1.0,2020-03-23
+ChinaSichuan,62,545,2,1.003,2020-03-24
 ChinaTianjin,0,4,4,1.0,2020-01-22
 ChinaTianjin,1,4,0,1.0,2020-01-23
 ChinaTianjin,2,8,4,2.0,2020-01-24
@@ -4959,6 +5101,7 @@ ChinaTianjin,58,137,0,1.0,2020-03-20
 ChinaTianjin,59,137,0,1.0,2020-03-21
 ChinaTianjin,60,137,0,1.0,2020-03-22
 ChinaTianjin,61,141,4,1.029,2020-03-23
+ChinaTianjin,62,145,4,1.028,2020-03-24
 ChinaTibet,0,0,0,1.0,2020-01-22
 ChinaTibet,1,0,0,1.0,2020-01-23
 ChinaTibet,2,0,0,1.0,2020-01-24
@@ -5021,6 +5164,7 @@ ChinaTibet,58,1,0,1.0,2020-03-20
 ChinaTibet,59,1,0,1.0,2020-03-21
 ChinaTibet,60,1,0,1.0,2020-03-22
 ChinaTibet,61,1,0,1.0,2020-03-23
+ChinaTibet,62,1,0,1.0,2020-03-24
 ChinaXinjiang,0,0,0,1.0,2020-01-22
 ChinaXinjiang,1,2,2,1.0,2020-01-23
 ChinaXinjiang,2,2,0,1.0,2020-01-24
@@ -5083,6 +5227,7 @@ ChinaXinjiang,58,76,0,1.0,2020-03-20
 ChinaXinjiang,59,76,0,1.0,2020-03-21
 ChinaXinjiang,60,76,0,1.0,2020-03-22
 ChinaXinjiang,61,76,0,1.0,2020-03-23
+ChinaXinjiang,62,76,0,1.0,2020-03-24
 ChinaYunnan,0,1,1,1.0,2020-01-22
 ChinaYunnan,1,2,1,2.0,2020-01-23
 ChinaYunnan,2,5,3,2.5,2020-01-24
@@ -5145,6 +5290,7 @@ ChinaYunnan,58,176,0,1.0,2020-03-20
 ChinaYunnan,59,176,0,1.0,2020-03-21
 ChinaYunnan,60,176,0,1.0,2020-03-22
 ChinaYunnan,61,176,0,1.0,2020-03-23
+ChinaYunnan,62,176,0,1.0,2020-03-24
 ChinaZhejiang,0,10,10,1.0,2020-01-22
 ChinaZhejiang,1,27,17,2.7,2020-01-23
 ChinaZhejiang,2,43,16,1.592,2020-01-24
@@ -5207,6 +5353,7 @@ ChinaZhejiang,58,1234,1,1.000,2020-03-20
 ChinaZhejiang,59,1236,2,1.001,2020-03-21
 ChinaZhejiang,60,1238,2,1.001,2020-03-22
 ChinaZhejiang,61,1238,0,1.0,2020-03-23
+ChinaZhejiang,62,1240,2,1.001,2020-03-24
 Colombia,0,0,0,1.0,2020-01-22
 Colombia,1,0,0,1.0,2020-01-23
 Colombia,2,0,0,1.0,2020-01-24
@@ -5269,6 +5416,7 @@ Colombia,58,128,26,1.254,2020-03-20
 Colombia,59,196,68,1.531,2020-03-21
 Colombia,60,231,35,1.178,2020-03-22
 Colombia,61,277,46,1.199,2020-03-23
+Colombia,62,378,101,1.364,2020-03-24
 Congo(Brazzaville),0,0,0,1.0,2020-01-22
 Congo(Brazzaville),1,0,0,1.0,2020-01-23
 Congo(Brazzaville),2,0,0,1.0,2020-01-24
@@ -5331,6 +5479,7 @@ Congo(Brazzaville),58,3,0,1.0,2020-03-20
 Congo(Brazzaville),59,3,0,1.0,2020-03-21
 Congo(Brazzaville),60,3,0,1.0,2020-03-22
 Congo(Brazzaville),61,4,1,1.333,2020-03-23
+Congo(Brazzaville),62,4,0,1.0,2020-03-24
 Congo(Kinshasa),0,0,0,1.0,2020-01-22
 Congo(Kinshasa),1,0,0,1.0,2020-01-23
 Congo(Kinshasa),2,0,0,1.0,2020-01-24
@@ -5393,6 +5542,7 @@ Congo(Kinshasa),58,18,4,1.285,2020-03-20
 Congo(Kinshasa),59,23,5,1.277,2020-03-21
 Congo(Kinshasa),60,30,7,1.304,2020-03-22
 Congo(Kinshasa),61,36,6,1.2,2020-03-23
+Congo(Kinshasa),62,45,9,1.25,2020-03-24
 CostaRica,0,0,0,1.0,2020-01-22
 CostaRica,1,0,0,1.0,2020-01-23
 CostaRica,2,0,0,1.0,2020-01-24
@@ -5455,6 +5605,7 @@ CostaRica,58,89,20,1.289,2020-03-20
 CostaRica,59,117,28,1.314,2020-03-21
 CostaRica,60,134,17,1.145,2020-03-22
 CostaRica,61,158,24,1.179,2020-03-23
+CostaRica,62,177,19,1.120,2020-03-24
 Coted'Ivoire,0,0,0,1.0,2020-01-22
 Coted'Ivoire,1,0,0,1.0,2020-01-23
 Coted'Ivoire,2,0,0,1.0,2020-01-24
@@ -5517,6 +5668,7 @@ Coted'Ivoire,58,9,0,1.0,2020-03-20
 Coted'Ivoire,59,14,5,1.555,2020-03-21
 Coted'Ivoire,60,14,0,1.0,2020-03-22
 Coted'Ivoire,61,25,11,1.785,2020-03-23
+Coted'Ivoire,62,73,48,2.92,2020-03-24
 Croatia,0,0,0,1.0,2020-01-22
 Croatia,1,0,0,1.0,2020-01-23
 Croatia,2,0,0,1.0,2020-01-24
@@ -5579,68 +5731,7 @@ Croatia,58,128,23,1.219,2020-03-20
 Croatia,59,206,78,1.609,2020-03-21
 Croatia,60,254,48,1.233,2020-03-22
 Croatia,61,315,61,1.240,2020-03-23
-CruiseShipDiamondPrincess,0,0,0,1.0,2020-01-22
-CruiseShipDiamondPrincess,1,0,0,1.0,2020-01-23
-CruiseShipDiamondPrincess,2,0,0,1.0,2020-01-24
-CruiseShipDiamondPrincess,3,0,0,1.0,2020-01-25
-CruiseShipDiamondPrincess,4,0,0,1.0,2020-01-26
-CruiseShipDiamondPrincess,5,0,0,1.0,2020-01-27
-CruiseShipDiamondPrincess,6,0,0,1.0,2020-01-28
-CruiseShipDiamondPrincess,7,0,0,1.0,2020-01-29
-CruiseShipDiamondPrincess,8,0,0,1.0,2020-01-30
-CruiseShipDiamondPrincess,9,0,0,1.0,2020-01-31
-CruiseShipDiamondPrincess,10,0,0,1.0,2020-02-01
-CruiseShipDiamondPrincess,11,0,0,1.0,2020-02-02
-CruiseShipDiamondPrincess,12,0,0,1.0,2020-02-03
-CruiseShipDiamondPrincess,13,0,0,1.0,2020-02-04
-CruiseShipDiamondPrincess,14,0,0,1.0,2020-02-05
-CruiseShipDiamondPrincess,15,0,0,1.0,2020-02-06
-CruiseShipDiamondPrincess,16,61,61,1.0,2020-02-07
-CruiseShipDiamondPrincess,17,61,0,1.0,2020-02-08
-CruiseShipDiamondPrincess,18,64,3,1.049,2020-02-09
-CruiseShipDiamondPrincess,19,135,71,2.109,2020-02-10
-CruiseShipDiamondPrincess,20,135,0,1.0,2020-02-11
-CruiseShipDiamondPrincess,21,175,40,1.296,2020-02-12
-CruiseShipDiamondPrincess,22,175,0,1.0,2020-02-13
-CruiseShipDiamondPrincess,23,218,43,1.245,2020-02-14
-CruiseShipDiamondPrincess,24,285,67,1.307,2020-02-15
-CruiseShipDiamondPrincess,25,355,70,1.245,2020-02-16
-CruiseShipDiamondPrincess,26,454,99,1.278,2020-02-17
-CruiseShipDiamondPrincess,27,542,88,1.193,2020-02-18
-CruiseShipDiamondPrincess,28,621,79,1.145,2020-02-19
-CruiseShipDiamondPrincess,29,634,13,1.020,2020-02-20
-CruiseShipDiamondPrincess,30,634,0,1.0,2020-02-21
-CruiseShipDiamondPrincess,31,634,0,1.0,2020-02-22
-CruiseShipDiamondPrincess,32,691,57,1.089,2020-02-23
-CruiseShipDiamondPrincess,33,691,0,1.0,2020-02-24
-CruiseShipDiamondPrincess,34,691,0,1.0,2020-02-25
-CruiseShipDiamondPrincess,35,705,14,1.020,2020-02-26
-CruiseShipDiamondPrincess,36,705,0,1.0,2020-02-27
-CruiseShipDiamondPrincess,37,705,0,1.0,2020-02-28
-CruiseShipDiamondPrincess,38,705,0,1.0,2020-02-29
-CruiseShipDiamondPrincess,39,705,0,1.0,2020-03-01
-CruiseShipDiamondPrincess,40,705,0,1.0,2020-03-02
-CruiseShipDiamondPrincess,41,706,1,1.001,2020-03-03
-CruiseShipDiamondPrincess,42,706,0,1.0,2020-03-04
-CruiseShipDiamondPrincess,43,706,0,1.0,2020-03-05
-CruiseShipDiamondPrincess,44,706,0,1.0,2020-03-06
-CruiseShipDiamondPrincess,45,706,0,1.0,2020-03-07
-CruiseShipDiamondPrincess,46,706,0,1.0,2020-03-08
-CruiseShipDiamondPrincess,47,706,0,1.0,2020-03-09
-CruiseShipDiamondPrincess,48,706,0,1.0,2020-03-10
-CruiseShipDiamondPrincess,49,706,0,1.0,2020-03-11
-CruiseShipDiamondPrincess,50,706,0,1.0,2020-03-12
-CruiseShipDiamondPrincess,51,706,0,1.0,2020-03-13
-CruiseShipDiamondPrincess,52,706,0,1.0,2020-03-14
-CruiseShipDiamondPrincess,53,706,0,1.0,2020-03-15
-CruiseShipDiamondPrincess,54,706,0,1.0,2020-03-16
-CruiseShipDiamondPrincess,55,706,0,1.0,2020-03-17
-CruiseShipDiamondPrincess,56,712,6,1.008,2020-03-18
-CruiseShipDiamondPrincess,57,712,0,1.0,2020-03-19
-CruiseShipDiamondPrincess,58,712,0,1.0,2020-03-20
-CruiseShipDiamondPrincess,59,712,0,1.0,2020-03-21
-CruiseShipDiamondPrincess,60,712,0,1.0,2020-03-22
-CruiseShipDiamondPrincess,61,712,0,1.0,2020-03-23
+Croatia,62,382,67,1.212,2020-03-24
 Cuba,0,0,0,1.0,2020-01-22
 Cuba,1,0,0,1.0,2020-01-23
 Cuba,2,0,0,1.0,2020-01-24
@@ -5703,6 +5794,7 @@ Cuba,58,16,5,1.454,2020-03-20
 Cuba,59,21,5,1.312,2020-03-21
 Cuba,60,35,14,1.666,2020-03-22
 Cuba,61,40,5,1.142,2020-03-23
+Cuba,62,48,8,1.2,2020-03-24
 Cyprus,0,0,0,1.0,2020-01-22
 Cyprus,1,0,0,1.0,2020-01-23
 Cyprus,2,0,0,1.0,2020-01-24
@@ -5765,6 +5857,7 @@ Cyprus,58,67,0,1.0,2020-03-20
 Cyprus,59,84,17,1.253,2020-03-21
 Cyprus,60,95,11,1.130,2020-03-22
 Cyprus,61,116,21,1.221,2020-03-23
+Cyprus,62,124,8,1.068,2020-03-24
 Czechia,0,0,0,1.0,2020-01-22
 Czechia,1,0,0,1.0,2020-01-23
 Czechia,2,0,0,1.0,2020-01-24
@@ -5827,6 +5920,7 @@ Czechia,58,833,139,1.200,2020-03-20
 Czechia,59,995,162,1.194,2020-03-21
 Czechia,60,1120,125,1.125,2020-03-22
 Czechia,61,1236,116,1.103,2020-03-23
+Czechia,62,1394,158,1.127,2020-03-24
 Denmark,0,0,0,1.0,2020-01-22
 Denmark,1,0,0,1.0,2020-01-23
 Denmark,2,0,0,1.0,2020-01-24
@@ -5889,6 +5983,7 @@ Denmark,58,1255,104,1.090,2020-03-20
 Denmark,59,1326,71,1.056,2020-03-21
 Denmark,60,1395,69,1.052,2020-03-22
 Denmark,61,1450,55,1.039,2020-03-23
+Denmark,62,1591,141,1.097,2020-03-24
 DenmarkFaroeIslands,0,0,0,1.0,2020-01-22
 DenmarkFaroeIslands,1,0,0,1.0,2020-01-23
 DenmarkFaroeIslands,2,0,0,1.0,2020-01-24
@@ -5951,6 +6046,7 @@ DenmarkFaroeIslands,58,80,8,1.111,2020-03-20
 DenmarkFaroeIslands,59,92,12,1.15,2020-03-21
 DenmarkFaroeIslands,60,115,23,1.25,2020-03-22
 DenmarkFaroeIslands,61,118,3,1.026,2020-03-23
+DenmarkFaroeIslands,62,122,4,1.033,2020-03-24
 DenmarkGreenland,0,0,0,1.0,2020-01-22
 DenmarkGreenland,1,0,0,1.0,2020-01-23
 DenmarkGreenland,2,0,0,1.0,2020-01-24
@@ -6013,6 +6109,70 @@ DenmarkGreenland,58,2,0,1.0,2020-03-20
 DenmarkGreenland,59,2,0,1.0,2020-03-21
 DenmarkGreenland,60,4,2,2.0,2020-03-22
 DenmarkGreenland,61,4,0,1.0,2020-03-23
+DenmarkGreenland,62,5,1,1.25,2020-03-24
+DiamondPrincess,0,0,0,1.0,2020-01-22
+DiamondPrincess,1,0,0,1.0,2020-01-23
+DiamondPrincess,2,0,0,1.0,2020-01-24
+DiamondPrincess,3,0,0,1.0,2020-01-25
+DiamondPrincess,4,0,0,1.0,2020-01-26
+DiamondPrincess,5,0,0,1.0,2020-01-27
+DiamondPrincess,6,0,0,1.0,2020-01-28
+DiamondPrincess,7,0,0,1.0,2020-01-29
+DiamondPrincess,8,0,0,1.0,2020-01-30
+DiamondPrincess,9,0,0,1.0,2020-01-31
+DiamondPrincess,10,0,0,1.0,2020-02-01
+DiamondPrincess,11,0,0,1.0,2020-02-02
+DiamondPrincess,12,0,0,1.0,2020-02-03
+DiamondPrincess,13,0,0,1.0,2020-02-04
+DiamondPrincess,14,0,0,1.0,2020-02-05
+DiamondPrincess,15,0,0,1.0,2020-02-06
+DiamondPrincess,16,61,61,1.0,2020-02-07
+DiamondPrincess,17,61,0,1.0,2020-02-08
+DiamondPrincess,18,64,3,1.049,2020-02-09
+DiamondPrincess,19,135,71,2.109,2020-02-10
+DiamondPrincess,20,135,0,1.0,2020-02-11
+DiamondPrincess,21,175,40,1.296,2020-02-12
+DiamondPrincess,22,175,0,1.0,2020-02-13
+DiamondPrincess,23,218,43,1.245,2020-02-14
+DiamondPrincess,24,285,67,1.307,2020-02-15
+DiamondPrincess,25,355,70,1.245,2020-02-16
+DiamondPrincess,26,454,99,1.278,2020-02-17
+DiamondPrincess,27,542,88,1.193,2020-02-18
+DiamondPrincess,28,621,79,1.145,2020-02-19
+DiamondPrincess,29,634,13,1.020,2020-02-20
+DiamondPrincess,30,634,0,1.0,2020-02-21
+DiamondPrincess,31,634,0,1.0,2020-02-22
+DiamondPrincess,32,691,57,1.089,2020-02-23
+DiamondPrincess,33,691,0,1.0,2020-02-24
+DiamondPrincess,34,691,0,1.0,2020-02-25
+DiamondPrincess,35,705,14,1.020,2020-02-26
+DiamondPrincess,36,705,0,1.0,2020-02-27
+DiamondPrincess,37,705,0,1.0,2020-02-28
+DiamondPrincess,38,705,0,1.0,2020-02-29
+DiamondPrincess,39,705,0,1.0,2020-03-01
+DiamondPrincess,40,705,0,1.0,2020-03-02
+DiamondPrincess,41,706,1,1.001,2020-03-03
+DiamondPrincess,42,706,0,1.0,2020-03-04
+DiamondPrincess,43,706,0,1.0,2020-03-05
+DiamondPrincess,44,706,0,1.0,2020-03-06
+DiamondPrincess,45,706,0,1.0,2020-03-07
+DiamondPrincess,46,706,0,1.0,2020-03-08
+DiamondPrincess,47,706,0,1.0,2020-03-09
+DiamondPrincess,48,706,0,1.0,2020-03-10
+DiamondPrincess,49,706,0,1.0,2020-03-11
+DiamondPrincess,50,706,0,1.0,2020-03-12
+DiamondPrincess,51,706,0,1.0,2020-03-13
+DiamondPrincess,52,706,0,1.0,2020-03-14
+DiamondPrincess,53,706,0,1.0,2020-03-15
+DiamondPrincess,54,706,0,1.0,2020-03-16
+DiamondPrincess,55,706,0,1.0,2020-03-17
+DiamondPrincess,56,712,6,1.008,2020-03-18
+DiamondPrincess,57,712,0,1.0,2020-03-19
+DiamondPrincess,58,712,0,1.0,2020-03-20
+DiamondPrincess,59,712,0,1.0,2020-03-21
+DiamondPrincess,60,712,0,1.0,2020-03-22
+DiamondPrincess,61,712,0,1.0,2020-03-23
+DiamondPrincess,62,712,0,1.0,2020-03-24
 Djibouti,0,0,0,1.0,2020-01-22
 Djibouti,1,0,0,1.0,2020-01-23
 Djibouti,2,0,0,1.0,2020-01-24
@@ -6075,6 +6235,7 @@ Djibouti,58,1,0,1.0,2020-03-20
 Djibouti,59,1,0,1.0,2020-03-21
 Djibouti,60,1,0,1.0,2020-03-22
 Djibouti,61,3,2,3.0,2020-03-23
+Djibouti,62,3,0,1.0,2020-03-24
 Dominica,0,0,0,1.0,2020-01-22
 Dominica,1,0,0,1.0,2020-01-23
 Dominica,2,0,0,1.0,2020-01-24
@@ -6137,6 +6298,7 @@ Dominica,58,0,0,1.0,2020-03-20
 Dominica,59,0,0,1.0,2020-03-21
 Dominica,60,1,1,1.0,2020-03-22
 Dominica,61,2,1,2.0,2020-03-23
+Dominica,62,2,0,1.0,2020-03-24
 DominicanRepublic,0,0,0,1.0,2020-01-22
 DominicanRepublic,1,0,0,1.0,2020-01-23
 DominicanRepublic,2,0,0,1.0,2020-01-24
@@ -6199,6 +6361,7 @@ DominicanRepublic,58,72,38,2.117,2020-03-20
 DominicanRepublic,59,112,40,1.555,2020-03-21
 DominicanRepublic,60,202,90,1.803,2020-03-22
 DominicanRepublic,61,245,43,1.212,2020-03-23
+DominicanRepublic,62,312,67,1.273,2020-03-24
 Ecuador,0,0,0,1.0,2020-01-22
 Ecuador,1,0,0,1.0,2020-01-23
 Ecuador,2,0,0,1.0,2020-01-24
@@ -6261,6 +6424,7 @@ Ecuador,58,367,168,1.844,2020-03-20
 Ecuador,59,506,139,1.378,2020-03-21
 Ecuador,60,789,283,1.559,2020-03-22
 Ecuador,61,981,192,1.243,2020-03-23
+Ecuador,62,1082,101,1.102,2020-03-24
 Egypt,0,0,0,1.0,2020-01-22
 Egypt,1,0,0,1.0,2020-01-23
 Egypt,2,0,0,1.0,2020-01-24
@@ -6323,6 +6487,7 @@ Egypt,58,285,29,1.113,2020-03-20
 Egypt,59,294,9,1.031,2020-03-21
 Egypt,60,327,33,1.112,2020-03-22
 Egypt,61,366,39,1.119,2020-03-23
+Egypt,62,402,36,1.098,2020-03-24
 ElSalvador,0,0,0,1.0,2020-01-22
 ElSalvador,1,0,0,1.0,2020-01-23
 ElSalvador,2,0,0,1.0,2020-01-24
@@ -6385,6 +6550,7 @@ ElSalvador,58,1,0,1.0,2020-03-20
 ElSalvador,59,3,2,3.0,2020-03-21
 ElSalvador,60,3,0,1.0,2020-03-22
 ElSalvador,61,3,0,1.0,2020-03-23
+ElSalvador,62,5,2,1.666,2020-03-24
 EquatorialGuinea,0,0,0,1.0,2020-01-22
 EquatorialGuinea,1,0,0,1.0,2020-01-23
 EquatorialGuinea,2,0,0,1.0,2020-01-24
@@ -6447,6 +6613,7 @@ EquatorialGuinea,58,6,0,1.0,2020-03-20
 EquatorialGuinea,59,6,0,1.0,2020-03-21
 EquatorialGuinea,60,6,0,1.0,2020-03-22
 EquatorialGuinea,61,9,3,1.5,2020-03-23
+EquatorialGuinea,62,9,0,1.0,2020-03-24
 Eritrea,0,0,0,1.0,2020-01-22
 Eritrea,1,0,0,1.0,2020-01-23
 Eritrea,2,0,0,1.0,2020-01-24
@@ -6509,6 +6676,7 @@ Eritrea,58,0,0,1.0,2020-03-20
 Eritrea,59,1,1,1.0,2020-03-21
 Eritrea,60,1,0,1.0,2020-03-22
 Eritrea,61,1,0,1.0,2020-03-23
+Eritrea,62,1,0,1.0,2020-03-24
 Estonia,0,0,0,1.0,2020-01-22
 Estonia,1,0,0,1.0,2020-01-23
 Estonia,2,0,0,1.0,2020-01-24
@@ -6571,6 +6739,7 @@ Estonia,58,283,16,1.059,2020-03-20
 Estonia,59,306,23,1.081,2020-03-21
 Estonia,60,326,20,1.065,2020-03-22
 Estonia,61,352,26,1.079,2020-03-23
+Estonia,62,369,17,1.048,2020-03-24
 Eswatini,0,0,0,1.0,2020-01-22
 Eswatini,1,0,0,1.0,2020-01-23
 Eswatini,2,0,0,1.0,2020-01-24
@@ -6633,6 +6802,7 @@ Eswatini,58,1,0,1.0,2020-03-20
 Eswatini,59,1,0,1.0,2020-03-21
 Eswatini,60,4,3,4.0,2020-03-22
 Eswatini,61,4,0,1.0,2020-03-23
+Eswatini,62,4,0,1.0,2020-03-24
 Ethiopia,0,0,0,1.0,2020-01-22
 Ethiopia,1,0,0,1.0,2020-01-23
 Ethiopia,2,0,0,1.0,2020-01-24
@@ -6695,6 +6865,7 @@ Ethiopia,58,9,3,1.5,2020-03-20
 Ethiopia,59,9,0,1.0,2020-03-21
 Ethiopia,60,11,2,1.222,2020-03-22
 Ethiopia,61,11,0,1.0,2020-03-23
+Ethiopia,62,12,1,1.090,2020-03-24
 Fiji,0,0,0,1.0,2020-01-22
 Fiji,1,0,0,1.0,2020-01-23
 Fiji,2,0,0,1.0,2020-01-24
@@ -6757,6 +6928,7 @@ Fiji,58,1,0,1.0,2020-03-20
 Fiji,59,1,0,1.0,2020-03-21
 Fiji,60,2,1,2.0,2020-03-22
 Fiji,61,3,1,1.5,2020-03-23
+Fiji,62,4,1,1.333,2020-03-24
 Finland,0,0,0,1.0,2020-01-22
 Finland,1,0,0,1.0,2020-01-23
 Finland,2,0,0,1.0,2020-01-24
@@ -6819,6 +6991,7 @@ Finland,58,450,50,1.125,2020-03-20
 Finland,59,523,73,1.162,2020-03-21
 Finland,60,626,103,1.196,2020-03-22
 Finland,61,700,74,1.118,2020-03-23
+Finland,62,792,92,1.131,2020-03-24
 France,0,0,0,1.0,2020-01-22
 France,1,0,0,1.0,2020-01-23
 France,2,2,2,1.0,2020-01-24
@@ -6881,6 +7054,7 @@ France,58,12612,1741,1.160,2020-03-20
 France,59,14282,1670,1.132,2020-03-21
 France,60,16018,1736,1.121,2020-03-22
 France,61,19856,3838,1.239,2020-03-23
+France,62,22304,2448,1.123,2020-03-24
 FranceFrenchGuiana,0,0,0,1.0,2020-01-22
 FranceFrenchGuiana,1,0,0,1.0,2020-01-23
 FranceFrenchGuiana,2,0,0,1.0,2020-01-24
@@ -6943,6 +7117,7 @@ FranceFrenchGuiana,58,15,4,1.363,2020-03-20
 FranceFrenchGuiana,59,18,3,1.2,2020-03-21
 FranceFrenchGuiana,60,18,0,1.0,2020-03-22
 FranceFrenchGuiana,61,20,2,1.111,2020-03-23
+FranceFrenchGuiana,62,23,3,1.15,2020-03-24
 FranceFrenchPolynesia,0,0,0,1.0,2020-01-22
 FranceFrenchPolynesia,1,0,0,1.0,2020-01-23
 FranceFrenchPolynesia,2,0,0,1.0,2020-01-24
@@ -7005,6 +7180,7 @@ FranceFrenchPolynesia,58,11,5,1.833,2020-03-20
 FranceFrenchPolynesia,59,15,4,1.363,2020-03-21
 FranceFrenchPolynesia,60,18,3,1.2,2020-03-22
 FranceFrenchPolynesia,61,18,0,1.0,2020-03-23
+FranceFrenchPolynesia,62,25,7,1.388,2020-03-24
 FranceGuadeloupe,0,0,0,1.0,2020-01-22
 FranceGuadeloupe,1,0,0,1.0,2020-01-23
 FranceGuadeloupe,2,0,0,1.0,2020-01-24
@@ -7067,6 +7243,7 @@ FranceGuadeloupe,58,45,12,1.363,2020-03-20
 FranceGuadeloupe,59,53,8,1.177,2020-03-21
 FranceGuadeloupe,60,58,5,1.094,2020-03-22
 FranceGuadeloupe,61,62,4,1.068,2020-03-23
+FranceGuadeloupe,62,62,0,1.0,2020-03-24
 FranceMartinique,0,0,0,1.0,2020-01-22
 FranceMartinique,1,0,0,1.0,2020-01-23
 FranceMartinique,2,0,0,1.0,2020-01-24
@@ -7129,6 +7306,7 @@ FranceMartinique,58,32,9,1.391,2020-03-20
 FranceMartinique,59,32,0,1.0,2020-03-21
 FranceMartinique,60,44,12,1.375,2020-03-22
 FranceMartinique,61,53,9,1.204,2020-03-23
+FranceMartinique,62,57,4,1.075,2020-03-24
 FranceMayotte,0,0,0,1.0,2020-01-22
 FranceMayotte,1,0,0,1.0,2020-01-23
 FranceMayotte,2,0,0,1.0,2020-01-24
@@ -7191,6 +7369,7 @@ FranceMayotte,58,6,3,2.0,2020-03-20
 FranceMayotte,59,7,1,1.166,2020-03-21
 FranceMayotte,60,11,4,1.571,2020-03-22
 FranceMayotte,61,24,13,2.181,2020-03-23
+FranceMayotte,62,36,12,1.5,2020-03-24
 FranceNewCaledonia,0,0,0,1.0,2020-01-22
 FranceNewCaledonia,1,0,0,1.0,2020-01-23
 FranceNewCaledonia,2,0,0,1.0,2020-01-24
@@ -7253,6 +7432,7 @@ FranceNewCaledonia,58,2,0,1.0,2020-03-20
 FranceNewCaledonia,59,4,2,2.0,2020-03-21
 FranceNewCaledonia,60,4,0,1.0,2020-03-22
 FranceNewCaledonia,61,8,4,2.0,2020-03-23
+FranceNewCaledonia,62,10,2,1.25,2020-03-24
 FranceReunion,0,0,0,1.0,2020-01-22
 FranceReunion,1,0,0,1.0,2020-01-23
 FranceReunion,2,0,0,1.0,2020-01-24
@@ -7315,6 +7495,7 @@ FranceReunion,58,28,14,2.0,2020-03-20
 FranceReunion,59,45,17,1.607,2020-03-21
 FranceReunion,60,64,19,1.422,2020-03-22
 FranceReunion,61,71,7,1.109,2020-03-23
+FranceReunion,62,94,23,1.323,2020-03-24
 FranceSaintBarthelemy,0,0,0,1.0,2020-01-22
 FranceSaintBarthelemy,1,0,0,1.0,2020-01-23
 FranceSaintBarthelemy,2,0,0,1.0,2020-01-24
@@ -7377,6 +7558,7 @@ FranceSaintBarthelemy,58,3,0,1.0,2020-03-20
 FranceSaintBarthelemy,59,3,0,1.0,2020-03-21
 FranceSaintBarthelemy,60,3,0,1.0,2020-03-22
 FranceSaintBarthelemy,61,3,0,1.0,2020-03-23
+FranceSaintBarthelemy,62,3,0,1.0,2020-03-24
 FranceStMartin,0,0,0,1.0,2020-01-22
 FranceStMartin,1,0,0,1.0,2020-01-23
 FranceStMartin,2,0,0,1.0,2020-01-24
@@ -7439,6 +7621,7 @@ FranceStMartin,58,4,0,1.0,2020-03-20
 FranceStMartin,59,4,0,1.0,2020-03-21
 FranceStMartin,60,5,1,1.25,2020-03-22
 FranceStMartin,61,8,3,1.6,2020-03-23
+FranceStMartin,62,8,0,1.0,2020-03-24
 Gabon,0,0,0,1.0,2020-01-22
 Gabon,1,0,0,1.0,2020-01-23
 Gabon,2,0,0,1.0,2020-01-24
@@ -7501,6 +7684,7 @@ Gabon,58,3,2,3.0,2020-03-20
 Gabon,59,4,1,1.333,2020-03-21
 Gabon,60,5,1,1.25,2020-03-22
 Gabon,61,5,0,1.0,2020-03-23
+Gabon,62,6,1,1.2,2020-03-24
 Gambia,0,0,0,1.0,2020-01-22
 Gambia,1,0,0,1.0,2020-01-23
 Gambia,2,0,0,1.0,2020-01-24
@@ -7563,6 +7747,7 @@ Gambia,58,1,0,1.0,2020-03-20
 Gambia,59,1,0,1.0,2020-03-21
 Gambia,60,1,0,1.0,2020-03-22
 Gambia,61,2,1,2.0,2020-03-23
+Gambia,62,3,1,1.5,2020-03-24
 Georgia,0,0,0,1.0,2020-01-22
 Georgia,1,0,0,1.0,2020-01-23
 Georgia,2,0,0,1.0,2020-01-24
@@ -7625,6 +7810,7 @@ Georgia,58,43,3,1.075,2020-03-20
 Georgia,59,49,6,1.139,2020-03-21
 Georgia,60,54,5,1.102,2020-03-22
 Georgia,61,61,7,1.129,2020-03-23
+Georgia,62,70,9,1.147,2020-03-24
 Germany,0,0,0,1.0,2020-01-22
 Germany,1,0,0,1.0,2020-01-23
 Germany,2,0,0,1.0,2020-01-24
@@ -7687,6 +7873,7 @@ Germany,58,19848,4528,1.295,2020-03-20
 Germany,59,22213,2365,1.119,2020-03-21
 Germany,60,24873,2660,1.119,2020-03-22
 Germany,61,29056,4183,1.168,2020-03-23
+Germany,62,32986,3930,1.135,2020-03-24
 Ghana,0,0,0,1.0,2020-01-22
 Ghana,1,0,0,1.0,2020-01-23
 Ghana,2,0,0,1.0,2020-01-24
@@ -7749,6 +7936,7 @@ Ghana,58,16,5,1.454,2020-03-20
 Ghana,59,19,3,1.187,2020-03-21
 Ghana,60,23,4,1.210,2020-03-22
 Ghana,61,27,4,1.173,2020-03-23
+Ghana,62,53,26,1.962,2020-03-24
 Greece,0,0,0,1.0,2020-01-22
 Greece,1,0,0,1.0,2020-01-23
 Greece,2,0,0,1.0,2020-01-24
@@ -7811,6 +7999,7 @@ Greece,58,495,77,1.184,2020-03-20
 Greece,59,530,35,1.070,2020-03-21
 Greece,60,624,94,1.177,2020-03-22
 Greece,61,695,71,1.113,2020-03-23
+Greece,62,743,48,1.069,2020-03-24
 Grenada,0,0,0,1.0,2020-01-22
 Grenada,1,0,0,1.0,2020-01-23
 Grenada,2,0,0,1.0,2020-01-24
@@ -7873,6 +8062,7 @@ Grenada,58,0,0,1.0,2020-03-20
 Grenada,59,0,0,1.0,2020-03-21
 Grenada,60,1,1,1.0,2020-03-22
 Grenada,61,1,0,1.0,2020-03-23
+Grenada,62,1,0,1.0,2020-03-24
 Guatemala,0,0,0,1.0,2020-01-22
 Guatemala,1,0,0,1.0,2020-01-23
 Guatemala,2,0,0,1.0,2020-01-24
@@ -7935,6 +8125,7 @@ Guatemala,58,12,3,1.333,2020-03-20
 Guatemala,59,17,5,1.416,2020-03-21
 Guatemala,60,19,2,1.117,2020-03-22
 Guatemala,61,20,1,1.052,2020-03-23
+Guatemala,62,21,1,1.05,2020-03-24
 Guinea,0,0,0,1.0,2020-01-22
 Guinea,1,0,0,1.0,2020-01-23
 Guinea,2,0,0,1.0,2020-01-24
@@ -7997,6 +8188,7 @@ Guinea,58,1,0,1.0,2020-03-20
 Guinea,59,2,1,2.0,2020-03-21
 Guinea,60,2,0,1.0,2020-03-22
 Guinea,61,4,2,2.0,2020-03-23
+Guinea,62,4,0,1.0,2020-03-24
 Guyana,0,0,0,1.0,2020-01-22
 Guyana,1,0,0,1.0,2020-01-23
 Guyana,2,0,0,1.0,2020-01-24
@@ -8059,6 +8251,7 @@ Guyana,58,7,0,1.0,2020-03-20
 Guyana,59,7,0,1.0,2020-03-21
 Guyana,60,19,12,2.714,2020-03-22
 Guyana,61,20,1,1.052,2020-03-23
+Guyana,62,5,-15,0.25,2020-03-24
 Haiti,0,0,0,1.0,2020-01-22
 Haiti,1,0,0,1.0,2020-01-23
 Haiti,2,0,0,1.0,2020-01-24
@@ -8121,6 +8314,7 @@ Haiti,58,2,2,1.0,2020-03-20
 Haiti,59,2,0,1.0,2020-03-21
 Haiti,60,2,0,1.0,2020-03-22
 Haiti,61,6,4,3.0,2020-03-23
+Haiti,62,7,1,1.166,2020-03-24
 HolySee,0,0,0,1.0,2020-01-22
 HolySee,1,0,0,1.0,2020-01-23
 HolySee,2,0,0,1.0,2020-01-24
@@ -8183,6 +8377,7 @@ HolySee,58,1,0,1.0,2020-03-20
 HolySee,59,1,0,1.0,2020-03-21
 HolySee,60,1,0,1.0,2020-03-22
 HolySee,61,1,0,1.0,2020-03-23
+HolySee,62,4,3,4.0,2020-03-24
 Honduras,0,0,0,1.0,2020-01-22
 Honduras,1,0,0,1.0,2020-01-23
 Honduras,2,0,0,1.0,2020-01-24
@@ -8245,6 +8440,7 @@ Honduras,58,24,12,2.0,2020-03-20
 Honduras,59,24,0,1.0,2020-03-21
 Honduras,60,26,2,1.083,2020-03-22
 Honduras,61,30,4,1.153,2020-03-23
+Honduras,62,30,0,1.0,2020-03-24
 Hungary,0,0,0,1.0,2020-01-22
 Hungary,1,0,0,1.0,2020-01-23
 Hungary,2,0,0,1.0,2020-01-24
@@ -8307,6 +8503,7 @@ Hungary,58,85,12,1.164,2020-03-20
 Hungary,59,103,18,1.211,2020-03-21
 Hungary,60,131,28,1.271,2020-03-22
 Hungary,61,167,36,1.274,2020-03-23
+Hungary,62,187,20,1.119,2020-03-24
 Iceland,0,0,0,1.0,2020-01-22
 Iceland,1,0,0,1.0,2020-01-23
 Iceland,2,0,0,1.0,2020-01-24
@@ -8369,6 +8566,7 @@ Iceland,58,409,79,1.239,2020-03-20
 Iceland,59,473,64,1.156,2020-03-21
 Iceland,60,568,95,1.200,2020-03-22
 Iceland,61,588,20,1.035,2020-03-23
+Iceland,62,648,60,1.102,2020-03-24
 India,0,0,0,1.0,2020-01-22
 India,1,0,0,1.0,2020-01-23
 India,2,0,0,1.0,2020-01-24
@@ -8431,6 +8629,7 @@ India,58,244,50,1.257,2020-03-20
 India,59,330,86,1.352,2020-03-21
 India,60,396,66,1.2,2020-03-22
 India,61,499,103,1.260,2020-03-23
+India,62,536,37,1.074,2020-03-24
 Indonesia,0,0,0,1.0,2020-01-22
 Indonesia,1,0,0,1.0,2020-01-23
 Indonesia,2,0,0,1.0,2020-01-24
@@ -8493,6 +8692,7 @@ Indonesia,58,369,58,1.186,2020-03-20
 Indonesia,59,450,81,1.219,2020-03-21
 Indonesia,60,514,64,1.142,2020-03-22
 Indonesia,61,579,65,1.126,2020-03-23
+Indonesia,62,686,107,1.184,2020-03-24
 Iran,0,0,0,1.0,2020-01-22
 Iran,1,0,0,1.0,2020-01-23
 Iran,2,0,0,1.0,2020-01-24
@@ -8555,6 +8755,7 @@ Iran,58,19644,1237,1.067,2020-03-20
 Iran,59,20610,966,1.049,2020-03-21
 Iran,60,21638,1028,1.049,2020-03-22
 Iran,61,23049,1411,1.065,2020-03-23
+Iran,62,24811,1762,1.076,2020-03-24
 Iraq,0,0,0,1.0,2020-01-22
 Iraq,1,0,0,1.0,2020-01-23
 Iraq,2,0,0,1.0,2020-01-24
@@ -8617,6 +8818,7 @@ Iraq,58,208,16,1.083,2020-03-20
 Iraq,59,214,6,1.028,2020-03-21
 Iraq,60,233,19,1.088,2020-03-22
 Iraq,61,266,33,1.141,2020-03-23
+Iraq,62,316,50,1.187,2020-03-24
 Ireland,0,0,0,1.0,2020-01-22
 Ireland,1,0,0,1.0,2020-01-23
 Ireland,2,0,0,1.0,2020-01-24
@@ -8679,6 +8881,7 @@ Ireland,58,683,126,1.226,2020-03-20
 Ireland,59,785,102,1.149,2020-03-21
 Ireland,60,906,121,1.154,2020-03-22
 Ireland,61,1125,219,1.241,2020-03-23
+Ireland,62,1329,204,1.181,2020-03-24
 Israel,0,0,0,1.0,2020-01-22
 Israel,1,0,0,1.0,2020-01-23
 Israel,2,0,0,1.0,2020-01-24
@@ -8741,6 +8944,7 @@ Israel,58,705,28,1.041,2020-03-20
 Israel,59,883,178,1.252,2020-03-21
 Israel,60,1071,188,1.212,2020-03-22
 Israel,61,1442,371,1.346,2020-03-23
+Israel,62,1930,488,1.338,2020-03-24
 Italy,0,0,0,1.0,2020-01-22
 Italy,1,0,0,1.0,2020-01-23
 Italy,2,0,0,1.0,2020-01-24
@@ -8803,6 +9007,7 @@ Italy,58,47021,5986,1.145,2020-03-20
 Italy,59,53578,6557,1.139,2020-03-21
 Italy,60,59138,5560,1.103,2020-03-22
 Italy,61,63927,4789,1.080,2020-03-23
+Italy,62,69176,5249,1.082,2020-03-24
 Jamaica,0,0,0,1.0,2020-01-22
 Jamaica,1,0,0,1.0,2020-01-23
 Jamaica,2,0,0,1.0,2020-01-24
@@ -8865,6 +9070,7 @@ Jamaica,58,16,1,1.066,2020-03-20
 Jamaica,59,16,0,1.0,2020-03-21
 Jamaica,60,19,3,1.187,2020-03-22
 Jamaica,61,19,0,1.0,2020-03-23
+Jamaica,62,21,2,1.105,2020-03-24
 Japan,0,2,2,1.0,2020-01-22
 Japan,1,2,0,1.0,2020-01-23
 Japan,2,2,0,1.0,2020-01-24
@@ -8927,6 +9133,7 @@ Japan,58,963,39,1.042,2020-03-20
 Japan,59,1007,44,1.045,2020-03-21
 Japan,60,1101,94,1.093,2020-03-22
 Japan,61,1128,27,1.024,2020-03-23
+Japan,62,1193,65,1.057,2020-03-24
 Jordan,0,0,0,1.0,2020-01-22
 Jordan,1,0,0,1.0,2020-01-23
 Jordan,2,0,0,1.0,2020-01-24
@@ -8989,6 +9196,7 @@ Jordan,58,85,16,1.231,2020-03-20
 Jordan,59,85,0,1.0,2020-03-21
 Jordan,60,112,27,1.317,2020-03-22
 Jordan,61,127,15,1.133,2020-03-23
+Jordan,62,154,27,1.212,2020-03-24
 Kazakhstan,0,0,0,1.0,2020-01-22
 Kazakhstan,1,0,0,1.0,2020-01-23
 Kazakhstan,2,0,0,1.0,2020-01-24
@@ -9051,6 +9259,7 @@ Kazakhstan,58,49,5,1.113,2020-03-20
 Kazakhstan,59,53,4,1.081,2020-03-21
 Kazakhstan,60,60,7,1.132,2020-03-22
 Kazakhstan,61,62,2,1.033,2020-03-23
+Kazakhstan,62,72,10,1.161,2020-03-24
 Kenya,0,0,0,1.0,2020-01-22
 Kenya,1,0,0,1.0,2020-01-23
 Kenya,2,0,0,1.0,2020-01-24
@@ -9113,6 +9322,7 @@ Kenya,58,7,0,1.0,2020-03-20
 Kenya,59,7,0,1.0,2020-03-21
 Kenya,60,15,8,2.142,2020-03-22
 Kenya,61,16,1,1.066,2020-03-23
+Kenya,62,25,9,1.562,2020-03-24
 Kuwait,0,0,0,1.0,2020-01-22
 Kuwait,1,0,0,1.0,2020-01-23
 Kuwait,2,0,0,1.0,2020-01-24
@@ -9175,6 +9385,7 @@ Kuwait,58,159,11,1.074,2020-03-20
 Kuwait,59,176,17,1.106,2020-03-21
 Kuwait,60,188,12,1.068,2020-03-22
 Kuwait,61,189,1,1.005,2020-03-23
+Kuwait,62,191,2,1.010,2020-03-24
 Kyrgyzstan,0,0,0,1.0,2020-01-22
 Kyrgyzstan,1,0,0,1.0,2020-01-23
 Kyrgyzstan,2,0,0,1.0,2020-01-24
@@ -9237,6 +9448,70 @@ Kyrgyzstan,58,6,3,2.0,2020-03-20
 Kyrgyzstan,59,14,8,2.333,2020-03-21
 Kyrgyzstan,60,14,0,1.0,2020-03-22
 Kyrgyzstan,61,16,2,1.142,2020-03-23
+Kyrgyzstan,62,42,26,2.625,2020-03-24
+Laos,0,0,0,1.0,2020-01-22
+Laos,1,0,0,1.0,2020-01-23
+Laos,2,0,0,1.0,2020-01-24
+Laos,3,0,0,1.0,2020-01-25
+Laos,4,0,0,1.0,2020-01-26
+Laos,5,0,0,1.0,2020-01-27
+Laos,6,0,0,1.0,2020-01-28
+Laos,7,0,0,1.0,2020-01-29
+Laos,8,0,0,1.0,2020-01-30
+Laos,9,0,0,1.0,2020-01-31
+Laos,10,0,0,1.0,2020-02-01
+Laos,11,0,0,1.0,2020-02-02
+Laos,12,0,0,1.0,2020-02-03
+Laos,13,0,0,1.0,2020-02-04
+Laos,14,0,0,1.0,2020-02-05
+Laos,15,0,0,1.0,2020-02-06
+Laos,16,0,0,1.0,2020-02-07
+Laos,17,0,0,1.0,2020-02-08
+Laos,18,0,0,1.0,2020-02-09
+Laos,19,0,0,1.0,2020-02-10
+Laos,20,0,0,1.0,2020-02-11
+Laos,21,0,0,1.0,2020-02-12
+Laos,22,0,0,1.0,2020-02-13
+Laos,23,0,0,1.0,2020-02-14
+Laos,24,0,0,1.0,2020-02-15
+Laos,25,0,0,1.0,2020-02-16
+Laos,26,0,0,1.0,2020-02-17
+Laos,27,0,0,1.0,2020-02-18
+Laos,28,0,0,1.0,2020-02-19
+Laos,29,0,0,1.0,2020-02-20
+Laos,30,0,0,1.0,2020-02-21
+Laos,31,0,0,1.0,2020-02-22
+Laos,32,0,0,1.0,2020-02-23
+Laos,33,0,0,1.0,2020-02-24
+Laos,34,0,0,1.0,2020-02-25
+Laos,35,0,0,1.0,2020-02-26
+Laos,36,0,0,1.0,2020-02-27
+Laos,37,0,0,1.0,2020-02-28
+Laos,38,0,0,1.0,2020-02-29
+Laos,39,0,0,1.0,2020-03-01
+Laos,40,0,0,1.0,2020-03-02
+Laos,41,0,0,1.0,2020-03-03
+Laos,42,0,0,1.0,2020-03-04
+Laos,43,0,0,1.0,2020-03-05
+Laos,44,0,0,1.0,2020-03-06
+Laos,45,0,0,1.0,2020-03-07
+Laos,46,0,0,1.0,2020-03-08
+Laos,47,0,0,1.0,2020-03-09
+Laos,48,0,0,1.0,2020-03-10
+Laos,49,0,0,1.0,2020-03-11
+Laos,50,0,0,1.0,2020-03-12
+Laos,51,0,0,1.0,2020-03-13
+Laos,52,0,0,1.0,2020-03-14
+Laos,53,0,0,1.0,2020-03-15
+Laos,54,0,0,1.0,2020-03-16
+Laos,55,0,0,1.0,2020-03-17
+Laos,56,0,0,1.0,2020-03-18
+Laos,57,0,0,1.0,2020-03-19
+Laos,58,0,0,1.0,2020-03-20
+Laos,59,0,0,1.0,2020-03-21
+Laos,60,0,0,1.0,2020-03-22
+Laos,61,0,0,1.0,2020-03-23
+Laos,62,2,2,1.0,2020-03-24
 Latvia,0,0,0,1.0,2020-01-22
 Latvia,1,0,0,1.0,2020-01-23
 Latvia,2,0,0,1.0,2020-01-24
@@ -9299,6 +9574,7 @@ Latvia,58,111,25,1.290,2020-03-20
 Latvia,59,124,13,1.117,2020-03-21
 Latvia,60,139,15,1.120,2020-03-22
 Latvia,61,180,41,1.294,2020-03-23
+Latvia,62,197,17,1.094,2020-03-24
 Lebanon,0,0,0,1.0,2020-01-22
 Lebanon,1,0,0,1.0,2020-01-23
 Lebanon,2,0,0,1.0,2020-01-24
@@ -9361,6 +9637,7 @@ Lebanon,58,163,6,1.038,2020-03-20
 Lebanon,59,187,24,1.147,2020-03-21
 Lebanon,60,248,61,1.326,2020-03-22
 Lebanon,61,267,19,1.076,2020-03-23
+Lebanon,62,318,51,1.191,2020-03-24
 Liberia,0,0,0,1.0,2020-01-22
 Liberia,1,0,0,1.0,2020-01-23
 Liberia,2,0,0,1.0,2020-01-24
@@ -9423,6 +9700,70 @@ Liberia,58,2,0,1.0,2020-03-20
 Liberia,59,3,1,1.5,2020-03-21
 Liberia,60,3,0,1.0,2020-03-22
 Liberia,61,3,0,1.0,2020-03-23
+Liberia,62,3,0,1.0,2020-03-24
+Libya,0,0,0,1.0,2020-01-22
+Libya,1,0,0,1.0,2020-01-23
+Libya,2,0,0,1.0,2020-01-24
+Libya,3,0,0,1.0,2020-01-25
+Libya,4,0,0,1.0,2020-01-26
+Libya,5,0,0,1.0,2020-01-27
+Libya,6,0,0,1.0,2020-01-28
+Libya,7,0,0,1.0,2020-01-29
+Libya,8,0,0,1.0,2020-01-30
+Libya,9,0,0,1.0,2020-01-31
+Libya,10,0,0,1.0,2020-02-01
+Libya,11,0,0,1.0,2020-02-02
+Libya,12,0,0,1.0,2020-02-03
+Libya,13,0,0,1.0,2020-02-04
+Libya,14,0,0,1.0,2020-02-05
+Libya,15,0,0,1.0,2020-02-06
+Libya,16,0,0,1.0,2020-02-07
+Libya,17,0,0,1.0,2020-02-08
+Libya,18,0,0,1.0,2020-02-09
+Libya,19,0,0,1.0,2020-02-10
+Libya,20,0,0,1.0,2020-02-11
+Libya,21,0,0,1.0,2020-02-12
+Libya,22,0,0,1.0,2020-02-13
+Libya,23,0,0,1.0,2020-02-14
+Libya,24,0,0,1.0,2020-02-15
+Libya,25,0,0,1.0,2020-02-16
+Libya,26,0,0,1.0,2020-02-17
+Libya,27,0,0,1.0,2020-02-18
+Libya,28,0,0,1.0,2020-02-19
+Libya,29,0,0,1.0,2020-02-20
+Libya,30,0,0,1.0,2020-02-21
+Libya,31,0,0,1.0,2020-02-22
+Libya,32,0,0,1.0,2020-02-23
+Libya,33,0,0,1.0,2020-02-24
+Libya,34,0,0,1.0,2020-02-25
+Libya,35,0,0,1.0,2020-02-26
+Libya,36,0,0,1.0,2020-02-27
+Libya,37,0,0,1.0,2020-02-28
+Libya,38,0,0,1.0,2020-02-29
+Libya,39,0,0,1.0,2020-03-01
+Libya,40,0,0,1.0,2020-03-02
+Libya,41,0,0,1.0,2020-03-03
+Libya,42,0,0,1.0,2020-03-04
+Libya,43,0,0,1.0,2020-03-05
+Libya,44,0,0,1.0,2020-03-06
+Libya,45,0,0,1.0,2020-03-07
+Libya,46,0,0,1.0,2020-03-08
+Libya,47,0,0,1.0,2020-03-09
+Libya,48,0,0,1.0,2020-03-10
+Libya,49,0,0,1.0,2020-03-11
+Libya,50,0,0,1.0,2020-03-12
+Libya,51,0,0,1.0,2020-03-13
+Libya,52,0,0,1.0,2020-03-14
+Libya,53,0,0,1.0,2020-03-15
+Libya,54,0,0,1.0,2020-03-16
+Libya,55,0,0,1.0,2020-03-17
+Libya,56,0,0,1.0,2020-03-18
+Libya,57,0,0,1.0,2020-03-19
+Libya,58,0,0,1.0,2020-03-20
+Libya,59,0,0,1.0,2020-03-21
+Libya,60,0,0,1.0,2020-03-22
+Libya,61,0,0,1.0,2020-03-23
+Libya,62,1,1,1.0,2020-03-24
 Liechtenstein,0,0,0,1.0,2020-01-22
 Liechtenstein,1,0,0,1.0,2020-01-23
 Liechtenstein,2,0,0,1.0,2020-01-24
@@ -9485,6 +9826,7 @@ Liechtenstein,58,28,0,1.0,2020-03-20
 Liechtenstein,59,37,9,1.321,2020-03-21
 Liechtenstein,60,37,0,1.0,2020-03-22
 Liechtenstein,61,51,14,1.378,2020-03-23
+Liechtenstein,62,51,0,1.0,2020-03-24
 Lithuania,0,0,0,1.0,2020-01-22
 Lithuania,1,0,0,1.0,2020-01-23
 Lithuania,2,0,0,1.0,2020-01-24
@@ -9547,6 +9889,7 @@ Lithuania,58,49,13,1.361,2020-03-20
 Lithuania,59,83,34,1.693,2020-03-21
 Lithuania,60,143,60,1.722,2020-03-22
 Lithuania,61,179,36,1.251,2020-03-23
+Lithuania,62,209,30,1.167,2020-03-24
 Luxembourg,0,0,0,1.0,2020-01-22
 Luxembourg,1,0,0,1.0,2020-01-23
 Luxembourg,2,0,0,1.0,2020-01-24
@@ -9609,6 +9952,7 @@ Luxembourg,58,484,149,1.444,2020-03-20
 Luxembourg,59,670,186,1.384,2020-03-21
 Luxembourg,60,798,128,1.191,2020-03-22
 Luxembourg,61,875,77,1.096,2020-03-23
+Luxembourg,62,1099,224,1.256,2020-03-24
 Madagascar,0,0,0,1.0,2020-01-22
 Madagascar,1,0,0,1.0,2020-01-23
 Madagascar,2,0,0,1.0,2020-01-24
@@ -9671,6 +10015,7 @@ Madagascar,58,3,3,1.0,2020-03-20
 Madagascar,59,3,0,1.0,2020-03-21
 Madagascar,60,3,0,1.0,2020-03-22
 Madagascar,61,12,9,4.0,2020-03-23
+Madagascar,62,17,5,1.416,2020-03-24
 Malaysia,0,0,0,1.0,2020-01-22
 Malaysia,1,0,0,1.0,2020-01-23
 Malaysia,2,0,0,1.0,2020-01-24
@@ -9733,6 +10078,7 @@ Malaysia,58,1030,130,1.144,2020-03-20
 Malaysia,59,1183,153,1.148,2020-03-21
 Malaysia,60,1306,123,1.103,2020-03-22
 Malaysia,61,1518,212,1.162,2020-03-23
+Malaysia,62,1624,106,1.069,2020-03-24
 Maldives,0,0,0,1.0,2020-01-22
 Maldives,1,0,0,1.0,2020-01-23
 Maldives,2,0,0,1.0,2020-01-24
@@ -9795,6 +10141,7 @@ Maldives,58,13,0,1.0,2020-03-20
 Maldives,59,13,0,1.0,2020-03-21
 Maldives,60,13,0,1.0,2020-03-22
 Maldives,61,13,0,1.0,2020-03-23
+Maldives,62,13,0,1.0,2020-03-24
 Malta,0,0,0,1.0,2020-01-22
 Malta,1,0,0,1.0,2020-01-23
 Malta,2,0,0,1.0,2020-01-24
@@ -9857,6 +10204,7 @@ Malta,58,64,11,1.207,2020-03-20
 Malta,59,73,9,1.140,2020-03-21
 Malta,60,90,17,1.232,2020-03-22
 Malta,61,107,17,1.188,2020-03-23
+Malta,62,110,3,1.028,2020-03-24
 Mauritania,0,0,0,1.0,2020-01-22
 Mauritania,1,0,0,1.0,2020-01-23
 Mauritania,2,0,0,1.0,2020-01-24
@@ -9919,6 +10267,7 @@ Mauritania,58,2,0,1.0,2020-03-20
 Mauritania,59,2,0,1.0,2020-03-21
 Mauritania,60,2,0,1.0,2020-03-22
 Mauritania,61,2,0,1.0,2020-03-23
+Mauritania,62,2,0,1.0,2020-03-24
 Mauritius,0,0,0,1.0,2020-01-22
 Mauritius,1,0,0,1.0,2020-01-23
 Mauritius,2,0,0,1.0,2020-01-24
@@ -9981,6 +10330,7 @@ Mauritius,58,12,9,4.0,2020-03-20
 Mauritius,59,14,2,1.166,2020-03-21
 Mauritius,60,28,14,2.0,2020-03-22
 Mauritius,61,36,8,1.285,2020-03-23
+Mauritius,62,42,6,1.166,2020-03-24
 Mexico,0,0,0,1.0,2020-01-22
 Mexico,1,0,0,1.0,2020-01-23
 Mexico,2,0,0,1.0,2020-01-24
@@ -10043,6 +10393,7 @@ Mexico,58,164,46,1.389,2020-03-20
 Mexico,59,203,39,1.237,2020-03-21
 Mexico,60,251,48,1.236,2020-03-22
 Mexico,61,316,65,1.258,2020-03-23
+Mexico,62,367,51,1.161,2020-03-24
 Moldova,0,0,0,1.0,2020-01-22
 Moldova,1,0,0,1.0,2020-01-23
 Moldova,2,0,0,1.0,2020-01-24
@@ -10105,6 +10456,7 @@ Moldova,58,66,17,1.346,2020-03-20
 Moldova,59,80,14,1.212,2020-03-21
 Moldova,60,94,14,1.175,2020-03-22
 Moldova,61,109,15,1.159,2020-03-23
+Moldova,62,125,16,1.146,2020-03-24
 Monaco,0,0,0,1.0,2020-01-22
 Monaco,1,0,0,1.0,2020-01-23
 Monaco,2,0,0,1.0,2020-01-24
@@ -10167,6 +10519,7 @@ Monaco,58,11,4,1.571,2020-03-20
 Monaco,59,11,0,1.0,2020-03-21
 Monaco,60,23,12,2.090,2020-03-22
 Monaco,61,23,0,1.0,2020-03-23
+Monaco,62,23,0,1.0,2020-03-24
 Mongolia,0,0,0,1.0,2020-01-22
 Mongolia,1,0,0,1.0,2020-01-23
 Mongolia,2,0,0,1.0,2020-01-24
@@ -10229,6 +10582,7 @@ Mongolia,58,6,0,1.0,2020-03-20
 Mongolia,59,10,4,1.666,2020-03-21
 Mongolia,60,10,0,1.0,2020-03-22
 Mongolia,61,10,0,1.0,2020-03-23
+Mongolia,62,10,0,1.0,2020-03-24
 Montenegro,0,0,0,1.0,2020-01-22
 Montenegro,1,0,0,1.0,2020-01-23
 Montenegro,2,0,0,1.0,2020-01-24
@@ -10291,6 +10645,7 @@ Montenegro,58,14,11,4.666,2020-03-20
 Montenegro,59,14,0,1.0,2020-03-21
 Montenegro,60,21,7,1.5,2020-03-22
 Montenegro,61,27,6,1.285,2020-03-23
+Montenegro,62,47,20,1.740,2020-03-24
 Morocco,0,0,0,1.0,2020-01-22
 Morocco,1,0,0,1.0,2020-01-23
 Morocco,2,0,0,1.0,2020-01-24
@@ -10353,6 +10708,7 @@ Morocco,58,77,14,1.222,2020-03-20
 Morocco,59,96,19,1.246,2020-03-21
 Morocco,60,115,19,1.197,2020-03-22
 Morocco,61,143,28,1.243,2020-03-23
+Morocco,62,170,27,1.188,2020-03-24
 Mozambique,0,0,0,1.0,2020-01-22
 Mozambique,1,0,0,1.0,2020-01-23
 Mozambique,2,0,0,1.0,2020-01-24
@@ -10415,6 +10771,7 @@ Mozambique,58,0,0,1.0,2020-03-20
 Mozambique,59,0,0,1.0,2020-03-21
 Mozambique,60,1,1,1.0,2020-03-22
 Mozambique,61,1,0,1.0,2020-03-23
+Mozambique,62,3,2,3.0,2020-03-24
 Namibia,0,0,0,1.0,2020-01-22
 Namibia,1,0,0,1.0,2020-01-23
 Namibia,2,0,0,1.0,2020-01-24
@@ -10477,6 +10834,7 @@ Namibia,58,3,0,1.0,2020-03-20
 Namibia,59,3,0,1.0,2020-03-21
 Namibia,60,3,0,1.0,2020-03-22
 Namibia,61,4,1,1.333,2020-03-23
+Namibia,62,7,3,1.75,2020-03-24
 Nepal,0,0,0,1.0,2020-01-22
 Nepal,1,0,0,1.0,2020-01-23
 Nepal,2,0,0,1.0,2020-01-24
@@ -10539,6 +10897,7 @@ Nepal,58,1,0,1.0,2020-03-20
 Nepal,59,1,0,1.0,2020-03-21
 Nepal,60,1,0,1.0,2020-03-22
 Nepal,61,2,1,2.0,2020-03-23
+Nepal,62,2,0,1.0,2020-03-24
 Netherlands,0,0,0,1.0,2020-01-22
 Netherlands,1,0,0,1.0,2020-01-23
 Netherlands,2,0,0,1.0,2020-01-24
@@ -10601,6 +10960,7 @@ Netherlands,58,2994,534,1.217,2020-03-20
 Netherlands,59,3631,637,1.212,2020-03-21
 Netherlands,60,4204,573,1.157,2020-03-22
 Netherlands,61,4749,545,1.129,2020-03-23
+Netherlands,62,5560,811,1.170,2020-03-24
 NetherlandsAruba,0,0,0,1.0,2020-01-22
 NetherlandsAruba,1,0,0,1.0,2020-01-23
 NetherlandsAruba,2,0,0,1.0,2020-01-24
@@ -10663,6 +11023,7 @@ NetherlandsAruba,58,5,1,1.25,2020-03-20
 NetherlandsAruba,59,5,0,1.0,2020-03-21
 NetherlandsAruba,60,9,4,1.8,2020-03-22
 NetherlandsAruba,61,9,0,1.0,2020-03-23
+NetherlandsAruba,62,12,3,1.333,2020-03-24
 NetherlandsCuracao,0,0,0,1.0,2020-01-22
 NetherlandsCuracao,1,0,0,1.0,2020-01-23
 NetherlandsCuracao,2,0,0,1.0,2020-01-24
@@ -10725,6 +11086,7 @@ NetherlandsCuracao,58,3,0,1.0,2020-03-20
 NetherlandsCuracao,59,3,0,1.0,2020-03-21
 NetherlandsCuracao,60,3,0,1.0,2020-03-22
 NetherlandsCuracao,61,4,1,1.333,2020-03-23
+NetherlandsCuracao,62,6,2,1.5,2020-03-24
 NetherlandsSintMaarten,0,0,0,1.0,2020-01-22
 NetherlandsSintMaarten,1,0,0,1.0,2020-01-23
 NetherlandsSintMaarten,2,0,0,1.0,2020-01-24
@@ -10787,6 +11149,7 @@ NetherlandsSintMaarten,58,1,1,1.0,2020-03-20
 NetherlandsSintMaarten,59,1,0,1.0,2020-03-21
 NetherlandsSintMaarten,60,1,0,1.0,2020-03-22
 NetherlandsSintMaarten,61,2,1,2.0,2020-03-23
+NetherlandsSintMaarten,62,2,0,1.0,2020-03-24
 NewZealand,0,0,0,1.0,2020-01-22
 NewZealand,1,0,0,1.0,2020-01-23
 NewZealand,2,0,0,1.0,2020-01-24
@@ -10849,6 +11212,7 @@ NewZealand,58,39,11,1.392,2020-03-20
 NewZealand,59,52,13,1.333,2020-03-21
 NewZealand,60,102,50,1.961,2020-03-22
 NewZealand,61,102,0,1.0,2020-03-23
+NewZealand,62,155,53,1.519,2020-03-24
 Nicaragua,0,0,0,1.0,2020-01-22
 Nicaragua,1,0,0,1.0,2020-01-23
 Nicaragua,2,0,0,1.0,2020-01-24
@@ -10911,6 +11275,7 @@ Nicaragua,58,1,0,1.0,2020-03-20
 Nicaragua,59,2,1,2.0,2020-03-21
 Nicaragua,60,2,0,1.0,2020-03-22
 Nicaragua,61,2,0,1.0,2020-03-23
+Nicaragua,62,2,0,1.0,2020-03-24
 Niger,0,0,0,1.0,2020-01-22
 Niger,1,0,0,1.0,2020-01-23
 Niger,2,0,0,1.0,2020-01-24
@@ -10973,6 +11338,7 @@ Niger,58,1,1,1.0,2020-03-20
 Niger,59,1,0,1.0,2020-03-21
 Niger,60,2,1,2.0,2020-03-22
 Niger,61,3,1,1.5,2020-03-23
+Niger,62,3,0,1.0,2020-03-24
 Nigeria,0,0,0,1.0,2020-01-22
 Nigeria,1,0,0,1.0,2020-01-23
 Nigeria,2,0,0,1.0,2020-01-24
@@ -11035,6 +11401,7 @@ Nigeria,58,12,4,1.5,2020-03-20
 Nigeria,59,22,10,1.833,2020-03-21
 Nigeria,60,30,8,1.363,2020-03-22
 Nigeria,61,40,10,1.333,2020-03-23
+Nigeria,62,44,4,1.1,2020-03-24
 NorthMacedonia,0,0,0,1.0,2020-01-22
 NorthMacedonia,1,0,0,1.0,2020-01-23
 NorthMacedonia,2,0,0,1.0,2020-01-24
@@ -11097,6 +11464,7 @@ NorthMacedonia,58,67,19,1.395,2020-03-20
 NorthMacedonia,59,85,18,1.268,2020-03-21
 NorthMacedonia,60,115,30,1.352,2020-03-22
 NorthMacedonia,61,136,21,1.182,2020-03-23
+NorthMacedonia,62,148,12,1.088,2020-03-24
 Norway,0,0,0,1.0,2020-01-22
 Norway,1,0,0,1.0,2020-01-23
 Norway,2,0,0,1.0,2020-01-24
@@ -11159,6 +11527,7 @@ Norway,58,1914,168,1.096,2020-03-20
 Norway,59,2118,204,1.106,2020-03-21
 Norway,60,2385,267,1.126,2020-03-22
 Norway,61,2621,236,1.098,2020-03-23
+Norway,62,2863,242,1.092,2020-03-24
 Oman,0,0,0,1.0,2020-01-22
 Oman,1,0,0,1.0,2020-01-23
 Oman,2,0,0,1.0,2020-01-24
@@ -11221,6 +11590,7 @@ Oman,58,48,0,1.0,2020-03-20
 Oman,59,52,4,1.083,2020-03-21
 Oman,60,55,3,1.057,2020-03-22
 Oman,61,66,11,1.2,2020-03-23
+Oman,62,84,18,1.272,2020-03-24
 Pakistan,0,0,0,1.0,2020-01-22
 Pakistan,1,0,0,1.0,2020-01-23
 Pakistan,2,0,0,1.0,2020-01-24
@@ -11283,6 +11653,7 @@ Pakistan,58,501,47,1.103,2020-03-20
 Pakistan,59,730,229,1.457,2020-03-21
 Pakistan,60,776,46,1.063,2020-03-22
 Pakistan,61,875,99,1.127,2020-03-23
+Pakistan,62,972,97,1.110,2020-03-24
 Panama,0,0,0,1.0,2020-01-22
 Panama,1,0,0,1.0,2020-01-23
 Panama,2,0,0,1.0,2020-01-24
@@ -11345,6 +11716,7 @@ Panama,58,137,28,1.256,2020-03-20
 Panama,59,200,63,1.459,2020-03-21
 Panama,60,313,113,1.565,2020-03-22
 Panama,61,345,32,1.102,2020-03-23
+Panama,62,345,0,1.0,2020-03-24
 PapuaNewGuinea,0,0,0,1.0,2020-01-22
 PapuaNewGuinea,1,0,0,1.0,2020-01-23
 PapuaNewGuinea,2,0,0,1.0,2020-01-24
@@ -11407,6 +11779,7 @@ PapuaNewGuinea,58,1,1,1.0,2020-03-20
 PapuaNewGuinea,59,1,0,1.0,2020-03-21
 PapuaNewGuinea,60,1,0,1.0,2020-03-22
 PapuaNewGuinea,61,1,0,1.0,2020-03-23
+PapuaNewGuinea,62,1,0,1.0,2020-03-24
 Paraguay,0,0,0,1.0,2020-01-22
 Paraguay,1,0,0,1.0,2020-01-23
 Paraguay,2,0,0,1.0,2020-01-24
@@ -11469,6 +11842,7 @@ Paraguay,58,13,2,1.181,2020-03-20
 Paraguay,59,18,5,1.384,2020-03-21
 Paraguay,60,22,4,1.222,2020-03-22
 Paraguay,61,22,0,1.0,2020-03-23
+Paraguay,62,27,5,1.227,2020-03-24
 Peru,0,0,0,1.0,2020-01-22
 Peru,1,0,0,1.0,2020-01-23
 Peru,2,0,0,1.0,2020-01-24
@@ -11531,6 +11905,7 @@ Peru,58,234,0,1.0,2020-03-20
 Peru,59,318,84,1.358,2020-03-21
 Peru,60,363,45,1.141,2020-03-22
 Peru,61,395,32,1.088,2020-03-23
+Peru,62,416,21,1.053,2020-03-24
 Philippines,0,0,0,1.0,2020-01-22
 Philippines,1,0,0,1.0,2020-01-23
 Philippines,2,0,0,1.0,2020-01-24
@@ -11593,6 +11968,7 @@ Philippines,58,230,13,1.059,2020-03-20
 Philippines,59,307,77,1.334,2020-03-21
 Philippines,60,380,73,1.237,2020-03-22
 Philippines,61,462,82,1.215,2020-03-23
+Philippines,62,552,90,1.194,2020-03-24
 Poland,0,0,0,1.0,2020-01-22
 Poland,1,0,0,1.0,2020-01-23
 Poland,2,0,0,1.0,2020-01-24
@@ -11655,6 +12031,7 @@ Poland,58,425,70,1.197,2020-03-20
 Poland,59,536,111,1.261,2020-03-21
 Poland,60,634,98,1.182,2020-03-22
 Poland,61,749,115,1.181,2020-03-23
+Poland,62,901,152,1.202,2020-03-24
 Portugal,0,0,0,1.0,2020-01-22
 Portugal,1,0,0,1.0,2020-01-23
 Portugal,2,0,0,1.0,2020-01-24
@@ -11717,6 +12094,7 @@ Portugal,58,1020,235,1.299,2020-03-20
 Portugal,59,1280,260,1.254,2020-03-21
 Portugal,60,1600,320,1.25,2020-03-22
 Portugal,61,2060,460,1.287,2020-03-23
+Portugal,62,2362,302,1.146,2020-03-24
 Qatar,0,0,0,1.0,2020-01-22
 Qatar,1,0,0,1.0,2020-01-23
 Qatar,2,0,0,1.0,2020-01-24
@@ -11779,6 +12157,7 @@ Qatar,58,470,10,1.021,2020-03-20
 Qatar,59,481,11,1.023,2020-03-21
 Qatar,60,494,13,1.027,2020-03-22
 Qatar,61,501,7,1.014,2020-03-23
+Qatar,62,526,25,1.049,2020-03-24
 Romania,0,0,0,1.0,2020-01-22
 Romania,1,0,0,1.0,2020-01-23
 Romania,2,0,0,1.0,2020-01-24
@@ -11841,6 +12220,7 @@ Romania,58,308,31,1.111,2020-03-20
 Romania,59,367,59,1.191,2020-03-21
 Romania,60,433,66,1.179,2020-03-22
 Romania,61,576,143,1.330,2020-03-23
+Romania,62,794,218,1.378,2020-03-24
 Russia,0,0,0,1.0,2020-01-22
 Russia,1,0,0,1.0,2020-01-23
 Russia,2,0,0,1.0,2020-01-24
@@ -11903,6 +12283,7 @@ Russia,58,253,54,1.271,2020-03-20
 Russia,59,306,53,1.209,2020-03-21
 Russia,60,367,61,1.199,2020-03-22
 Russia,61,438,71,1.193,2020-03-23
+Russia,62,495,57,1.130,2020-03-24
 Rwanda,0,0,0,1.0,2020-01-22
 Rwanda,1,0,0,1.0,2020-01-23
 Rwanda,2,0,0,1.0,2020-01-24
@@ -11965,6 +12346,7 @@ Rwanda,58,17,9,2.125,2020-03-20
 Rwanda,59,17,0,1.0,2020-03-21
 Rwanda,60,19,2,1.117,2020-03-22
 Rwanda,61,36,17,1.894,2020-03-23
+Rwanda,62,40,4,1.111,2020-03-24
 SaintLucia,0,0,0,1.0,2020-01-22
 SaintLucia,1,0,0,1.0,2020-01-23
 SaintLucia,2,0,0,1.0,2020-01-24
@@ -12027,6 +12409,7 @@ SaintLucia,58,2,0,1.0,2020-03-20
 SaintLucia,59,2,0,1.0,2020-03-21
 SaintLucia,60,2,0,1.0,2020-03-22
 SaintLucia,61,3,1,1.5,2020-03-23
+SaintLucia,62,3,0,1.0,2020-03-24
 SaintVincentandtheGrenadines,0,0,0,1.0,2020-01-22
 SaintVincentandtheGrenadines,1,0,0,1.0,2020-01-23
 SaintVincentandtheGrenadines,2,0,0,1.0,2020-01-24
@@ -12089,6 +12472,7 @@ SaintVincentandtheGrenadines,58,1,0,1.0,2020-03-20
 SaintVincentandtheGrenadines,59,1,0,1.0,2020-03-21
 SaintVincentandtheGrenadines,60,1,0,1.0,2020-03-22
 SaintVincentandtheGrenadines,61,1,0,1.0,2020-03-23
+SaintVincentandtheGrenadines,62,1,0,1.0,2020-03-24
 SanMarino,0,0,0,1.0,2020-01-22
 SanMarino,1,0,0,1.0,2020-01-23
 SanMarino,2,0,0,1.0,2020-01-24
@@ -12151,6 +12535,7 @@ SanMarino,58,144,25,1.210,2020-03-20
 SanMarino,59,144,0,1.0,2020-03-21
 SanMarino,60,175,31,1.215,2020-03-22
 SanMarino,61,187,12,1.068,2020-03-23
+SanMarino,62,187,0,1.0,2020-03-24
 SaudiArabia,0,0,0,1.0,2020-01-22
 SaudiArabia,1,0,0,1.0,2020-01-23
 SaudiArabia,2,0,0,1.0,2020-01-24
@@ -12213,6 +12598,7 @@ SaudiArabia,58,344,70,1.255,2020-03-20
 SaudiArabia,59,392,48,1.139,2020-03-21
 SaudiArabia,60,511,119,1.303,2020-03-22
 SaudiArabia,61,562,51,1.099,2020-03-23
+SaudiArabia,62,767,205,1.364,2020-03-24
 Senegal,0,0,0,1.0,2020-01-22
 Senegal,1,0,0,1.0,2020-01-23
 Senegal,2,0,0,1.0,2020-01-24
@@ -12275,6 +12661,7 @@ Senegal,58,38,7,1.225,2020-03-20
 Senegal,59,47,9,1.236,2020-03-21
 Senegal,60,67,20,1.425,2020-03-22
 Senegal,61,79,12,1.179,2020-03-23
+Senegal,62,86,7,1.088,2020-03-24
 Serbia,0,0,0,1.0,2020-01-22
 Serbia,1,0,0,1.0,2020-01-23
 Serbia,2,0,0,1.0,2020-01-24
@@ -12337,6 +12724,7 @@ Serbia,58,135,32,1.310,2020-03-20
 Serbia,59,171,36,1.266,2020-03-21
 Serbia,60,222,51,1.298,2020-03-22
 Serbia,61,249,27,1.121,2020-03-23
+Serbia,62,303,54,1.216,2020-03-24
 Seychelles,0,0,0,1.0,2020-01-22
 Seychelles,1,0,0,1.0,2020-01-23
 Seychelles,2,0,0,1.0,2020-01-24
@@ -12399,6 +12787,7 @@ Seychelles,58,7,1,1.166,2020-03-20
 Seychelles,59,7,0,1.0,2020-03-21
 Seychelles,60,7,0,1.0,2020-03-22
 Seychelles,61,7,0,1.0,2020-03-23
+Seychelles,62,7,0,1.0,2020-03-24
 Singapore,0,0,0,1.0,2020-01-22
 Singapore,1,1,1,1.0,2020-01-23
 Singapore,2,3,2,3.0,2020-01-24
@@ -12461,6 +12850,7 @@ Singapore,58,385,40,1.115,2020-03-20
 Singapore,59,432,47,1.122,2020-03-21
 Singapore,60,455,23,1.053,2020-03-22
 Singapore,61,509,54,1.118,2020-03-23
+Singapore,62,558,49,1.096,2020-03-24
 Slovakia,0,0,0,1.0,2020-01-22
 Slovakia,1,0,0,1.0,2020-01-23
 Slovakia,2,0,0,1.0,2020-01-24
@@ -12523,6 +12913,7 @@ Slovakia,58,137,14,1.113,2020-03-20
 Slovakia,59,178,41,1.299,2020-03-21
 Slovakia,60,185,7,1.039,2020-03-22
 Slovakia,61,186,1,1.005,2020-03-23
+Slovakia,62,204,18,1.096,2020-03-24
 Slovenia,0,0,0,1.0,2020-01-22
 Slovenia,1,0,0,1.0,2020-01-23
 Slovenia,2,0,0,1.0,2020-01-24
@@ -12585,6 +12976,7 @@ Slovenia,58,341,55,1.192,2020-03-20
 Slovenia,59,383,42,1.123,2020-03-21
 Slovenia,60,414,31,1.080,2020-03-22
 Slovenia,61,442,28,1.067,2020-03-23
+Slovenia,62,480,38,1.085,2020-03-24
 Somalia,0,0,0,1.0,2020-01-22
 Somalia,1,0,0,1.0,2020-01-23
 Somalia,2,0,0,1.0,2020-01-24
@@ -12647,6 +13039,7 @@ Somalia,58,1,0,1.0,2020-03-20
 Somalia,59,1,0,1.0,2020-03-21
 Somalia,60,1,0,1.0,2020-03-22
 Somalia,61,1,0,1.0,2020-03-23
+Somalia,62,1,0,1.0,2020-03-24
 SouthAfrica,0,0,0,1.0,2020-01-22
 SouthAfrica,1,0,0,1.0,2020-01-23
 SouthAfrica,2,0,0,1.0,2020-01-24
@@ -12709,6 +13102,7 @@ SouthAfrica,58,202,52,1.346,2020-03-20
 SouthAfrica,59,240,38,1.188,2020-03-21
 SouthAfrica,60,274,34,1.141,2020-03-22
 SouthAfrica,61,402,128,1.467,2020-03-23
+SouthAfrica,62,554,152,1.378,2020-03-24
 SouthKorea,0,1,1,1.0,2020-01-22
 SouthKorea,1,1,0,1.0,2020-01-23
 SouthKorea,2,2,1,2.0,2020-01-24
@@ -12771,6 +13165,7 @@ SouthKorea,58,8652,87,1.010,2020-03-20
 SouthKorea,59,8799,147,1.016,2020-03-21
 SouthKorea,60,8961,162,1.018,2020-03-22
 SouthKorea,61,8961,0,1.0,2020-03-23
+SouthKorea,62,9037,76,1.008,2020-03-24
 Spain,0,0,0,1.0,2020-01-22
 Spain,1,0,0,1.0,2020-01-23
 Spain,2,0,0,1.0,2020-01-24
@@ -12833,6 +13228,7 @@ Spain,58,20410,2447,1.136,2020-03-20
 Spain,59,25374,4964,1.243,2020-03-21
 Spain,60,28768,3394,1.133,2020-03-22
 Spain,61,35136,6368,1.221,2020-03-23
+Spain,62,39885,4749,1.135,2020-03-24
 SriLanka,0,0,0,1.0,2020-01-22
 SriLanka,1,0,0,1.0,2020-01-23
 SriLanka,2,0,0,1.0,2020-01-24
@@ -12895,6 +13291,7 @@ SriLanka,58,73,13,1.216,2020-03-20
 SriLanka,59,77,4,1.054,2020-03-21
 SriLanka,60,82,5,1.064,2020-03-22
 SriLanka,61,97,15,1.182,2020-03-23
+SriLanka,62,102,5,1.051,2020-03-24
 Sudan,0,0,0,1.0,2020-01-22
 Sudan,1,0,0,1.0,2020-01-23
 Sudan,2,0,0,1.0,2020-01-24
@@ -12957,6 +13354,7 @@ Sudan,58,2,0,1.0,2020-03-20
 Sudan,59,2,0,1.0,2020-03-21
 Sudan,60,2,0,1.0,2020-03-22
 Sudan,61,2,0,1.0,2020-03-23
+Sudan,62,3,1,1.5,2020-03-24
 Suriname,0,0,0,1.0,2020-01-22
 Suriname,1,0,0,1.0,2020-01-23
 Suriname,2,0,0,1.0,2020-01-24
@@ -13019,6 +13417,7 @@ Suriname,58,4,3,4.0,2020-03-20
 Suriname,59,4,0,1.0,2020-03-21
 Suriname,60,5,1,1.25,2020-03-22
 Suriname,61,5,0,1.0,2020-03-23
+Suriname,62,7,2,1.4,2020-03-24
 Sweden,0,0,0,1.0,2020-01-22
 Sweden,1,0,0,1.0,2020-01-23
 Sweden,2,0,0,1.0,2020-01-24
@@ -13081,6 +13480,7 @@ Sweden,58,1639,200,1.138,2020-03-20
 Sweden,59,1763,124,1.075,2020-03-21
 Sweden,60,1934,171,1.096,2020-03-22
 Sweden,61,2046,112,1.057,2020-03-23
+Sweden,62,2286,240,1.117,2020-03-24
 Switzerland,0,0,0,1.0,2020-01-22
 Switzerland,1,0,0,1.0,2020-01-23
 Switzerland,2,0,0,1.0,2020-01-24
@@ -13143,6 +13543,7 @@ Switzerland,58,5294,1219,1.299,2020-03-20
 Switzerland,59,6575,1281,1.241,2020-03-21
 Switzerland,60,7474,899,1.136,2020-03-22
 Switzerland,61,8795,1321,1.176,2020-03-23
+Switzerland,62,9877,1082,1.123,2020-03-24
 Syria,0,0,0,1.0,2020-01-22
 Syria,1,0,0,1.0,2020-01-23
 Syria,2,0,0,1.0,2020-01-24
@@ -13205,6 +13606,7 @@ Syria,58,0,0,1.0,2020-03-20
 Syria,59,0,0,1.0,2020-03-21
 Syria,60,1,1,1.0,2020-03-22
 Syria,61,1,0,1.0,2020-03-23
+Syria,62,1,0,1.0,2020-03-24
 Taiwan*,0,1,1,1.0,2020-01-22
 Taiwan*,1,1,0,1.0,2020-01-23
 Taiwan*,2,3,2,3.0,2020-01-24
@@ -13267,6 +13669,7 @@ Taiwan*,58,135,27,1.25,2020-03-20
 Taiwan*,59,153,18,1.133,2020-03-21
 Taiwan*,60,169,16,1.104,2020-03-22
 Taiwan*,61,195,26,1.153,2020-03-23
+Taiwan*,62,215,20,1.102,2020-03-24
 Tanzania,0,0,0,1.0,2020-01-22
 Tanzania,1,0,0,1.0,2020-01-23
 Tanzania,2,0,0,1.0,2020-01-24
@@ -13329,6 +13732,7 @@ Tanzania,58,6,0,1.0,2020-03-20
 Tanzania,59,6,0,1.0,2020-03-21
 Tanzania,60,12,6,2.0,2020-03-22
 Tanzania,61,12,0,1.0,2020-03-23
+Tanzania,62,12,0,1.0,2020-03-24
 Thailand,0,2,2,1.0,2020-01-22
 Thailand,1,3,1,1.5,2020-01-23
 Thailand,2,5,2,1.666,2020-01-24
@@ -13391,6 +13795,7 @@ Thailand,58,322,50,1.183,2020-03-20
 Thailand,59,411,89,1.276,2020-03-21
 Thailand,60,599,188,1.457,2020-03-22
 Thailand,61,721,122,1.203,2020-03-23
+Thailand,62,827,106,1.147,2020-03-24
 Timor-Leste,0,0,0,1.0,2020-01-22
 Timor-Leste,1,0,0,1.0,2020-01-23
 Timor-Leste,2,0,0,1.0,2020-01-24
@@ -13453,6 +13858,7 @@ Timor-Leste,58,0,0,1.0,2020-03-20
 Timor-Leste,59,0,0,1.0,2020-03-21
 Timor-Leste,60,1,1,1.0,2020-03-22
 Timor-Leste,61,1,0,1.0,2020-03-23
+Timor-Leste,62,1,0,1.0,2020-03-24
 Togo,0,0,0,1.0,2020-01-22
 Togo,1,0,0,1.0,2020-01-23
 Togo,2,0,0,1.0,2020-01-24
@@ -13515,6 +13921,7 @@ Togo,58,9,8,9.0,2020-03-20
 Togo,59,16,7,1.777,2020-03-21
 Togo,60,16,0,1.0,2020-03-22
 Togo,61,18,2,1.125,2020-03-23
+Togo,62,20,2,1.111,2020-03-24
 TrinidadandTobago,0,0,0,1.0,2020-01-22
 TrinidadandTobago,1,0,0,1.0,2020-01-23
 TrinidadandTobago,2,0,0,1.0,2020-01-24
@@ -13577,6 +13984,7 @@ TrinidadandTobago,58,9,0,1.0,2020-03-20
 TrinidadandTobago,59,49,40,5.444,2020-03-21
 TrinidadandTobago,60,50,1,1.020,2020-03-22
 TrinidadandTobago,61,51,1,1.02,2020-03-23
+TrinidadandTobago,62,57,6,1.117,2020-03-24
 Tunisia,0,0,0,1.0,2020-01-22
 Tunisia,1,0,0,1.0,2020-01-23
 Tunisia,2,0,0,1.0,2020-01-24
@@ -13639,6 +14047,7 @@ Tunisia,58,54,15,1.384,2020-03-20
 Tunisia,59,60,6,1.111,2020-03-21
 Tunisia,60,75,15,1.25,2020-03-22
 Tunisia,61,89,14,1.186,2020-03-23
+Tunisia,62,114,25,1.280,2020-03-24
 Turkey,0,0,0,1.0,2020-01-22
 Turkey,1,0,0,1.0,2020-01-23
 Turkey,2,0,0,1.0,2020-01-24
@@ -13701,6 +14110,7 @@ Turkey,58,359,167,1.869,2020-03-20
 Turkey,59,670,311,1.866,2020-03-21
 Turkey,60,1236,566,1.844,2020-03-22
 Turkey,61,1529,293,1.237,2020-03-23
+Turkey,62,1872,343,1.224,2020-03-24
 US,0,1,1,1.0,2020-01-22
 US,1,1,0,1.0,2020-01-23
 US,2,2,1,2.0,2020-01-24
@@ -13763,6 +14173,7 @@ US,58,19100,5423,1.396,2020-03-20
 US,59,25489,6389,1.334,2020-03-21
 US,60,33276,7787,1.305,2020-03-22
 US,61,43847,10571,1.317,2020-03-23
+US,62,53740,9893,1.225,2020-03-24
 Uganda,0,0,0,1.0,2020-01-22
 Uganda,1,0,0,1.0,2020-01-23
 Uganda,2,0,0,1.0,2020-01-24
@@ -13825,6 +14236,7 @@ Uganda,58,0,0,1.0,2020-03-20
 Uganda,59,1,1,1.0,2020-03-21
 Uganda,60,1,0,1.0,2020-03-22
 Uganda,61,9,8,9.0,2020-03-23
+Uganda,62,9,0,1.0,2020-03-24
 Ukraine,0,0,0,1.0,2020-01-22
 Ukraine,1,0,0,1.0,2020-01-23
 Ukraine,2,0,0,1.0,2020-01-24
@@ -13887,6 +14299,7 @@ Ukraine,58,29,13,1.812,2020-03-20
 Ukraine,59,47,18,1.620,2020-03-21
 Ukraine,60,73,26,1.553,2020-03-22
 Ukraine,61,73,0,1.0,2020-03-23
+Ukraine,62,97,24,1.328,2020-03-24
 UnitedArabEmirates,0,0,0,1.0,2020-01-22
 UnitedArabEmirates,1,0,0,1.0,2020-01-23
 UnitedArabEmirates,2,0,0,1.0,2020-01-24
@@ -13949,6 +14362,7 @@ UnitedArabEmirates,58,140,0,1.0,2020-03-20
 UnitedArabEmirates,59,153,13,1.092,2020-03-21
 UnitedArabEmirates,60,153,0,1.0,2020-03-22
 UnitedArabEmirates,61,198,45,1.294,2020-03-23
+UnitedArabEmirates,62,248,50,1.252,2020-03-24
 UnitedKingdom,0,0,0,1.0,2020-01-22
 UnitedKingdom,1,0,0,1.0,2020-01-23
 UnitedKingdom,2,0,0,1.0,2020-01-24
@@ -14011,6 +14425,7 @@ UnitedKingdom,58,3983,714,1.218,2020-03-20
 UnitedKingdom,59,5018,1035,1.259,2020-03-21
 UnitedKingdom,60,5683,665,1.132,2020-03-22
 UnitedKingdom,61,6650,967,1.170,2020-03-23
+UnitedKingdom,62,8077,1427,1.214,2020-03-24
 UnitedKingdomBermuda,0,0,0,1.0,2020-01-22
 UnitedKingdomBermuda,1,0,0,1.0,2020-01-23
 UnitedKingdomBermuda,2,0,0,1.0,2020-01-24
@@ -14073,6 +14488,7 @@ UnitedKingdomBermuda,58,2,0,1.0,2020-03-20
 UnitedKingdomBermuda,59,2,0,1.0,2020-03-21
 UnitedKingdomBermuda,60,6,4,3.0,2020-03-22
 UnitedKingdomBermuda,61,6,0,1.0,2020-03-23
+UnitedKingdomBermuda,62,6,0,1.0,2020-03-24
 UnitedKingdomCaymanIslands,0,0,0,1.0,2020-01-22
 UnitedKingdomCaymanIslands,1,0,0,1.0,2020-01-23
 UnitedKingdomCaymanIslands,2,0,0,1.0,2020-01-24
@@ -14135,6 +14551,7 @@ UnitedKingdomCaymanIslands,58,3,0,1.0,2020-03-20
 UnitedKingdomCaymanIslands,59,3,0,1.0,2020-03-21
 UnitedKingdomCaymanIslands,60,3,0,1.0,2020-03-22
 UnitedKingdomCaymanIslands,61,5,2,1.666,2020-03-23
+UnitedKingdomCaymanIslands,62,6,1,1.2,2020-03-24
 UnitedKingdomChannelIslands,0,0,0,1.0,2020-01-22
 UnitedKingdomChannelIslands,1,0,0,1.0,2020-01-23
 UnitedKingdomChannelIslands,2,0,0,1.0,2020-01-24
@@ -14197,6 +14614,7 @@ UnitedKingdomChannelIslands,58,14,3,1.272,2020-03-20
 UnitedKingdomChannelIslands,59,32,18,2.285,2020-03-21
 UnitedKingdomChannelIslands,60,32,0,1.0,2020-03-22
 UnitedKingdomChannelIslands,61,36,4,1.125,2020-03-23
+UnitedKingdomChannelIslands,62,36,0,1.0,2020-03-24
 UnitedKingdomGibraltar,0,0,0,1.0,2020-01-22
 UnitedKingdomGibraltar,1,0,0,1.0,2020-01-23
 UnitedKingdomGibraltar,2,0,0,1.0,2020-01-24
@@ -14259,6 +14677,7 @@ UnitedKingdomGibraltar,58,10,0,1.0,2020-03-20
 UnitedKingdomGibraltar,59,10,0,1.0,2020-03-21
 UnitedKingdomGibraltar,60,15,5,1.5,2020-03-22
 UnitedKingdomGibraltar,61,15,0,1.0,2020-03-23
+UnitedKingdomGibraltar,62,15,0,1.0,2020-03-24
 UnitedKingdomIsleofMan,0,0,0,1.0,2020-01-22
 UnitedKingdomIsleofMan,1,0,0,1.0,2020-01-23
 UnitedKingdomIsleofMan,2,0,0,1.0,2020-01-24
@@ -14321,6 +14740,7 @@ UnitedKingdomIsleofMan,58,1,1,1.0,2020-03-20
 UnitedKingdomIsleofMan,59,1,0,1.0,2020-03-21
 UnitedKingdomIsleofMan,60,5,4,5.0,2020-03-22
 UnitedKingdomIsleofMan,61,13,8,2.6,2020-03-23
+UnitedKingdomIsleofMan,62,23,10,1.769,2020-03-24
 UnitedKingdomMontserrat,0,0,0,1.0,2020-01-22
 UnitedKingdomMontserrat,1,0,0,1.0,2020-01-23
 UnitedKingdomMontserrat,2,0,0,1.0,2020-01-24
@@ -14383,6 +14803,7 @@ UnitedKingdomMontserrat,58,1,0,1.0,2020-03-20
 UnitedKingdomMontserrat,59,1,0,1.0,2020-03-21
 UnitedKingdomMontserrat,60,1,0,1.0,2020-03-22
 UnitedKingdomMontserrat,61,1,0,1.0,2020-03-23
+UnitedKingdomMontserrat,62,1,0,1.0,2020-03-24
 Uruguay,0,0,0,1.0,2020-01-22
 Uruguay,1,0,0,1.0,2020-01-23
 Uruguay,2,0,0,1.0,2020-01-24
@@ -14445,6 +14866,7 @@ Uruguay,58,94,15,1.189,2020-03-20
 Uruguay,59,110,16,1.170,2020-03-21
 Uruguay,60,158,48,1.436,2020-03-22
 Uruguay,61,162,4,1.025,2020-03-23
+Uruguay,62,162,0,1.0,2020-03-24
 Uzbekistan,0,0,0,1.0,2020-01-22
 Uzbekistan,1,0,0,1.0,2020-01-23
 Uzbekistan,2,0,0,1.0,2020-01-24
@@ -14507,6 +14929,7 @@ Uzbekistan,58,33,10,1.434,2020-03-20
 Uzbekistan,59,43,10,1.303,2020-03-21
 Uzbekistan,60,43,0,1.0,2020-03-22
 Uzbekistan,61,46,3,1.069,2020-03-23
+Uzbekistan,62,50,4,1.086,2020-03-24
 Venezuela,0,0,0,1.0,2020-01-22
 Venezuela,1,0,0,1.0,2020-01-23
 Venezuela,2,0,0,1.0,2020-01-24
@@ -14569,6 +14992,7 @@ Venezuela,58,42,0,1.0,2020-03-20
 Venezuela,59,70,28,1.666,2020-03-21
 Venezuela,60,70,0,1.0,2020-03-22
 Venezuela,61,77,7,1.1,2020-03-23
+Venezuela,62,84,7,1.090,2020-03-24
 Vietnam,0,0,0,1.0,2020-01-22
 Vietnam,1,2,2,1.0,2020-01-23
 Vietnam,2,2,0,1.0,2020-01-24
@@ -14631,6 +15055,7 @@ Vietnam,58,91,6,1.070,2020-03-20
 Vietnam,59,94,3,1.032,2020-03-21
 Vietnam,60,113,19,1.202,2020-03-22
 Vietnam,61,123,10,1.088,2020-03-23
+Vietnam,62,134,11,1.089,2020-03-24
 Zambia,0,0,0,1.0,2020-01-22
 Zambia,1,0,0,1.0,2020-01-23
 Zambia,2,0,0,1.0,2020-01-24
@@ -14693,6 +15118,7 @@ Zambia,58,2,0,1.0,2020-03-20
 Zambia,59,2,0,1.0,2020-03-21
 Zambia,60,3,1,1.5,2020-03-22
 Zambia,61,3,0,1.0,2020-03-23
+Zambia,62,3,0,1.0,2020-03-24
 Zimbabwe,0,0,0,1.0,2020-01-22
 Zimbabwe,1,0,0,1.0,2020-01-23
 Zimbabwe,2,0,0,1.0,2020-01-24
@@ -14755,3 +15181,4 @@ Zimbabwe,58,1,1,1.0,2020-03-20
 Zimbabwe,59,3,2,3.0,2020-03-21
 Zimbabwe,60,3,0,1.0,2020-03-22
 Zimbabwe,61,3,0,1.0,2020-03-23
+Zimbabwe,62,3,0,1.0,2020-03-24
