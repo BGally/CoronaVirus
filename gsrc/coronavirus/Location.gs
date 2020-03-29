@@ -15,6 +15,12 @@ class Location {
     _casesLocationDates = new TreeMap<LocalDate, CasesLocationDate>()
   }
 
+  construct(province: String, country: String){
+    this(country)
+    _country = country
+    _province = province
+  }
+
   construct(province: String, country: String, latitude: String, longitude: String){
     this(country)
     _province = province
@@ -43,7 +49,11 @@ class Location {
   }
 
   property get Key(): String {
-    var key = _country + _province
+    var key : String
+    if(_country == _province){
+      key = _country
+    }
+    key = _country + _province
     key = key.remove(" ")
     key = key.remove(",")
     return key

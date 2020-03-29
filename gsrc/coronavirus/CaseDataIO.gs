@@ -88,6 +88,21 @@ class CaseDataIO {
 
   }
 
+  public function createPowerBIWorksheetFromLocation(loc : Location, title : String = null) : TextWorksheet {
+
+    if(title == null){
+      title = "PowerBICombined"
+    }
+
+    var headers = new ArrayList<String>()
+    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Date"})
+
+    var contentArray = generatePowerBIContentArray(loc.CasesLocationDates.Values.toList())
+
+    return new TextWorksheet(title, headers, contentArray)
+
+  }
+
   public function createPowerBIWorksheetFromLocations(locs : List<Location>, title : String = null) : TextWorksheet {
 
     if(title == null){
@@ -95,7 +110,7 @@ class CaseDataIO {
     }
 
     var headers = new ArrayList<String>()
-    headers.addAll({"location","day","cases","cases_new","growth","date"})
+    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Date"})
 
     var allCasesLocationdates = new ArrayList<CasesLocationDate>()
     for(loc in locs){
@@ -108,6 +123,34 @@ class CaseDataIO {
 
     return new TextWorksheet(title, headers, contentArray)
 
+  }
+
+  public function createCombinedLocation(locs : List<Location>, country : String = null, province : String = null) : Location {
+
+    if(country == null){
+      country = "CombinedLocations"
+    }
+    if(province == null){
+      province = "CombinedLocations"
+    }
+
+    var combinedCaseDates = new LinkedHashMap<LocalDate, CasesLocationDate>()
+
+    var combinedLocation = new Location(province, country)
+    for(loc in locs){
+      for(caseDateEntry in loc.CasesLocationDates.entrySet()){
+        var val = combinedCaseDates.get(caseDateEntry.Key)
+        if(val != null){
+          val.Confirmed += caseDateEntry.Value.Confirmed
+        } else{
+          var newCaseDateEntry = new CasesLocationDate(combinedLocation, caseDateEntry.Value.Date)
+          newCaseDateEntry.Confirmed = caseDateEntry.Value.Confirmed
+          combinedCaseDates.put(caseDateEntry.Key, newCaseDateEntry)
+        }
+      }
+    }
+
+    return combinedLocation
   }
 
   public function createColabWorksheetFromCombinedLocations(locs : List<Location>, title : String = null) : TextWorksheet {
@@ -188,7 +231,13 @@ class CaseDataIO {
       //if(casesDate.Confirmed > 0) {
         var days = ChronoUnit.DAYS.between(_virusStartDate, casesDate.Date)
         var row = new ArrayList<String>()
-        row.add(casesDate.Location.Key as String)
+        // row.add(casesDate.Location.Key as String)
+        row.add(casesDate.Location.Country as String)
+        var prov = casesDate.Location.Province as String
+        if(!prov.HasContent){
+          prov = casesDate.Location.Country
+        }
+        row.add(prov)
         row.add(days as String)
         row.add(casesDate.Confirmed as String)
         var newCases : int = 0
