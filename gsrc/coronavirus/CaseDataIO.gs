@@ -95,7 +95,7 @@ class CaseDataIO {
     }
 
     var headers = new ArrayList<String>()
-    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Percentage Growth","Date"})
+    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Date"})
 
     var contentArray = generatePowerBIContentArray(loc.CasesLocationDates.Values.toList())
 
@@ -110,7 +110,7 @@ class CaseDataIO {
     }
 
     var headers = new ArrayList<String>()
-    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Percentage Growth","Date"})
+    headers.addAll({"Country", "Province","Day","Cases","New Cases","Growth","Date"})
 
     var allCasesLocationdates = new ArrayList<CasesLocationDate>()
     for(loc in locs){
@@ -256,8 +256,6 @@ class CaseDataIO {
           growthString = growthString.substring(0,5)
         }
         row.add(growthString)
-        var growthPercentage = Math.round((growth - 1) * 100)
-        row.add(growthPercentage as String)
 
         var dateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd")
         var strDate = dateFormat.format(casesDate.Date)
